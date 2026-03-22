@@ -4,13 +4,10 @@ import os
 import time
 import urllib.parse
 import difflib
-import requests
 from datetime import datetime, timedelta
-from newspaper import Article
 import google.generativeai as genai
 
 def setup_genai():
-    # Hybrid Key Loading: Works locally and securely on GitHub Actions
     try:
         from dotenv import load_dotenv
         load_dotenv()
@@ -23,14 +20,13 @@ def setup_genai():
         exit(1)
     
     genai.configure(api_key=api_key)
-   return genai.GenerativeModel('gemini-pro')
+    return genai.GenerativeModel('gemini-pro')
 
 def get_summary(model, title, link, fallback_text=""):
-    """Generates a supply-chain focused summary using only Gemini 1.5 Flash."""
     try:
         prompt = (
-            f"Write a concise 2-sentence summary focused strictly on the Digital Supply Chain "
-            f"implications of this article.\n\n"
+            f"Write a concise 2-sentence summary focused strictly on the Digital Supply Chain, "
+            f"Logistics, or Manufacturing implications of this article.\n\n"
             f"Headline: {title}\n"
             f"Link: {link}\n"
             f"Context: {fallback_text[:500]}"
@@ -42,7 +38,6 @@ def get_summary(model, title, link, fallback_text=""):
     except Exception as e:
         print(f"Gemini Error for '{title[:30]}': {e}")
     
-    # Fallback if the AI fails or hits a hard paywall
     return f"Strategic Insight: This article covers {title}. Visit source for full technical details."
 
 def determine_category(title, summary):
@@ -63,18 +58,27 @@ def is_near_duplicate(new_title, existing_titles, threshold=0.85):
 
 def fetch_feed(query, existing_links, existing_titles, max_items):
     encoded_query = urllib.parse.quote(query)
+    
+    # ENGINES: Google, Bing, and Yahoo are all officially active
     rss_urls = [
         f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en",
-        f"https://www.bing.com/news/search?q={encoded_query}&format=rss"
+        f"https://www.bing.com/news/search?q={encoded_query}&format=rss",
+        f"https://news.search.yahoo.com/news/rss?p={encoded_query}" 
     ]
     
-    # Rolling 2-year archive boundary (Subtracts 730 days from today)
     time_threshold = datetime.now() - timedelta(days=730)
     items = []
     
     for rss_url in rss_urls:
         if len(items) >= max_items: break
-        feed = feedparser.parse(rss_url)
+        
+        # Adding a safety net in case Yahoo's feed goes offline, so it doesn't crash the script
+        try:
+            feed = feedparser.parse(rss_url)
+        except Exception as e:
+            print(f"Engine timeout: {e}")
+            continue
+
         for entry in feed.entries:
             if len(items) >= max_items: break
             
@@ -82,11 +86,13 @@ def fetch_feed(query, existing_links, existing_titles, max_items):
             title = entry.title if hasattr(entry, 'title') else ''
             title_lower = title.lower().strip()
             
-            # Title MUST contain 'supply chain' and pass duplicate checks
-            if 'supply chain' not in title_lower or link in existing_links: continue
+            valid_title_keywords = ['supply chain', 'logistics', 'manufacturing', 'procurement']
+            if not any(k in title_lower for k in valid_title_keywords): 
+                continue
+                
+            if link in existing_links: continue
             if is_near_duplicate(title_lower, existing_titles, 0.85): continue
             
-            # Filter out corporate/stock noise
             noise = ['stock market', 'dividend', 'hiring', 'earnings', 'marketing', 'flavor', 'stock price', 'share price']
             if any(w in title_lower for w in noise): continue
                 
@@ -95,7 +101,6 @@ def fetch_feed(query, existing_links, existing_titles, max_items):
                 published_time = datetime.fromtimestamp(time.mktime(entry.published_parsed))
                 
             if published_time and published_time >= time_threshold:
-                # Generate a safe placeholder image if none exists
                 safe_seed = urllib.parse.quote(title[:30].replace(' ', ''))
                 image_url = f"https://picsum.photos/seed/{safe_seed}/800/450"
                 
@@ -114,11 +119,14 @@ def fetch_feed(query, existing_links, existing_titles, max_items):
 def main():
     model = setup_genai()
     
-    sites = "site:logisticsmgt.com OR site:blueyonder.com OR site:supplychaindive.com OR site:scmr.com OR site:gep.com OR site:lineview.com"
-    base_query = 'intitle:"Supply Chain" (FMCG OR Beverage OR Food OR "Coca Cola")'
+    sites = "site:logisticsmgt.com OR site:blueyonder.com OR site:supplychaindive.com OR site:scmr.com OR site:gep.com OR site:lineview.com OR site:procurementmag.com OR site:supplychaindigital.com OR site:supplychain360.io OR site:coca-colacompany.com"
+    
+    base_topics = '(intitle:"Supply Chain" OR intitle:"Logistics" OR intitle:"Manufacturing" OR intitle:"Procurement")'
+    base_industries = '(FMCG OR Beverage OR Food OR "Coca-Cola" OR "Coca Cola" OR Pepsi OR Bottling OR Retail)'
+    base_query = f'{base_topics} {base_industries}'
+    
     exclusions = '-CEO -hiring -earnings -"stock price" -"share price" -dividend'
     
-    # Active Search Strings mapped to your categories
     future_tech = '("Agentic AI" OR "Data Fabric")'
     logistics = '(WMS OR TMS OR Transportation OR Warehouse OR Logistics OR Fleet OR Delivery)'
     smart_mfg = '("Smart Manufacturing" OR IOT OR Factory OR Automation OR "Digital Twin" OR Lineview OR OEE)'
@@ -127,22 +135,27 @@ def main():
     data_analytics = '(Data OR Analytics OR AI OR "Artificial Intelligence" OR "Machine Learning" OR Lake)'
     
     queries = [
-        # 1. VIP Executive Search
+        # 1. VIP Executive Search (Searches the whole internet)
         f'("Sedef Salingan Sahin" OR "Henrique Braun") ("Coca-Cola" OR Digital) {exclusions}',
         
-        # 2. Category-Specific Hunts
+        # 2. TARGETED SITES: Deep dive into your specific trade magazines
         f'{base_query} {future_tech} {exclusions} ({sites})',
         f'{base_query} {smart_mfg} {exclusions} ({sites})',
         f'{base_query} {planning} {exclusions} ({sites})',
         f'{base_query} {data_analytics} {exclusions} ({sites})',
         f'{base_query} {procurement} {exclusions} ({sites})',
-        f'{base_query} {logistics} {exclusions} ({sites})'
+        f'{base_query} {logistics} {exclusions} ({sites})',
+
+        # 3. BROAD WEB: Searches Yahoo Finance, Forbes, WSJ, etc. for major industry news
+        f'{base_query} {future_tech} {exclusions}',
+        f'{base_query} {smart_mfg} {exclusions}',
+        f'{base_query} {data_analytics} {exclusions}'
     ]
     
     existing_links, existing_titles, all_items = set(), set(), []
     
     for q in queries:
-        if len(all_items) >= 80: break # Hard cap at 80 items
+        if len(all_items) >= 80: break 
         found_items = fetch_feed(q, existing_links, existing_titles, max_items=80 - len(all_items))
         all_items.extend(found_items)
         
@@ -150,11 +163,15 @@ def main():
         print("No news found today.")
         return
         
-    # Sort by priority (Executive names first) then by date
-    all_items.sort(key=lambda x: (
-        1 if ('sahin' in x['title'].lower() or 'braun' in x['title'].lower()) else 0,
-        x['raw_date']
-    ), reverse=True)
+    def sort_priority(item):
+        t_low = item['title'].lower()
+        if 'sahin' in t_low or 'braun' in t_low:
+            return 2 
+        if 'coca' in t_low or 'coke' in t_low:
+            return 1 
+        return 0 
+
+    all_items.sort(key=lambda x: (sort_priority(x), x['raw_date']), reverse=True)
 
     final_items = []
     process_limit = min(len(all_items), 80)
@@ -173,7 +190,7 @@ def main():
             "description": summary,
             "link": item["link"]
         })
-        time.sleep(4.5) # Crucial: Pauses for 4.5 seconds to protect Gemini API limits
+        time.sleep(4.5) 
         
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(final_items, f, indent=2, ensure_ascii=False)
