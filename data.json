@@ -1,362 +1,101 @@
 [
   {
     "id": 1,
-    "image": "https://picsum.photos/seed/HowMaerskandCoca-ColaHarne/800/450",
-    "category": "Data Analytics",
-    "title": "How Maersk and Coca-Cola Harness AI in the Supply Chain - Food Digital",
-    "date": "02.10.2025",
-    "description": "Strategic Insight: This article covers How Maersk and Coca-Cola Harness AI in the Supply Chain - Food Digital - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVk0xRHIxTHJyZjZHa2pSRExaU1JvcXVHUXFZTXlzNjYySUFMc2dyaC1wWTJpQ2t2bHNHWjRaQlJTM0pzVFVVMjFRZFhiUHJMNGN2Nm9fTldvOTc3ZzF0X2tZSlB2MVg4QWtfUVoxSHdBMXUwcWVBZ3RBTjdDUml3NFlyMTdHcUJNOHc?oc=5"
+    "image": "https://picsum.photos/seed/Keytakeawaysfromthe2025Ga/800/450",
+    "category": "Planning",
+    "title": "Key takeaways from the 2025 Gartner® Supply Chain Planning Summit - Blue Yonder",
+    "date": "26.11.2025",
+    "description": "Strategic Insight: This article covers Key takeaways from the 2025 Gartner® Supply Chain Planning Summit - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOakNiMlNEU0ZmSkZoY09NNlZsbDZsNk5IMlZBSXM3VEJ5ZWJBU3Bsdm9Dc0I0MXdLcnc3VnZCRXVITnQtY0hNMVBrVzBocEhYbE1MbVF6UWlwb2xsVzF4OTFoSXU1UVJsaG9wQ3Q4N3N4YUF4ZGNxallwbl9ITGliVWNyUGJ4QUptc1hGVlNtTE1IMlJKTGlYS1VZNkwtdw?oc=5"
   },
   {
     "id": 2,
-    "image": "https://picsum.photos/seed/Food%26BeverageSupplyChainP/800/450",
-    "category": "Logistics",
-    "title": "Food & Beverage Supply Chain Planning - Logistics Business",
-    "date": "16.03.2026",
-    "description": "Strategic Insight: This article covers Food & Beverage Supply Chain Planning - Logistics Business - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWxtNi1GcmVxcEtSNE5IenR3SDdZU0pUZjNZbElYTVFCVlBBNnpySnBiOHU2bk1UeXNMZy1Tbmh1Y05oSXdvM3ZiNEo3aXpZUDdwVTJhWnVRWkV5dzZLS1pZVlFrZEtDbW5ibzJNY0Z6U1prUVBzUU1jU3dLQUduOS16Sm83dkNhU0RFeUVpckxiamh0ZF9EdzF3RTdWQ1FQ?oc=5"
+    "image": "https://picsum.photos/seed/Whysupplychainneedsadesig/800/450",
+    "category": "Planning",
+    "title": "Why supply chain needs a design transformation - Blue Yonder",
+    "date": "07.11.2025",
+    "description": "Strategic Insight: This article covers Why supply chain needs a design transformation - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNjVKMDFKbXFwb3JGU2psRlVJa2wzczNLRlh2VF9Hd3B1Y1BwNFZoTjc2N1lqMUVGUWt1aUZnRklFYWVYdXVKWHRTeDdzX2swWjUzZ2JhQTJ1WVNTdWhlQVNzUlJNSnRJcm9yV3pEakV0WkJzM2pGZUdENjRiM0paSGhNeUhPQQ?oc=5"
   },
   {
     "id": 3,
-    "image": "https://picsum.photos/seed/Scalingsupplychainresilienc/800/450",
-    "category": "Future-Tech",
-    "title": "Scaling supply chain resilience: agentic AI for autonomous operations - The Manufacturer",
-    "date": "11.03.2026",
-    "description": "Strategic Insight: This article covers Scaling supply chain resilience: agentic AI for autonomous operations - The Manufacturer - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnpOd1ZlQ09lNTlxZHktWl9VaGZzazBVX3JaWFpabFQyZEt6Um9uTFhhOGNKQ3lfckhyUFhkcmxzOTV5OGJIclpKeHc3bDAyWHU2aF9EUzF0VExNbEk2RUlnUXNCRzhFbzJHV250WVlfMENBdjB5WkxVSHk1VFBrcnFVWXlMUU5CWnBTVWEwVFM2UFcwSV9fVTl6Y3ZzUlV1TlJmNzhwbHV6aVUxd0JN?oc=5"
+    "image": "https://picsum.photos/seed/Cost-cuttingorcostoptimizat/800/450",
+    "category": "Planning",
+    "title": "Cost-cutting or cost optimization? How supply chain leaders are responding to uncertainty - Blue Yonder",
+    "date": "30.10.2025",
+    "description": "Strategic Insight: This article covers Cost-cutting or cost optimization? How supply chain leaders are responding to uncertainty - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4dVljclp3SXJTT1dMdnNhaTB5Y3hSYURyZ0NTRFJISjhLSDJfM3pVZDNnWXladHRLR3pvQXdweUlySFRYX2ZoNWZsYW1Vci02a2gxMU9TU3V1eTZ2Z2Y5M2pEYXZEY0tvNE5yamR2Q3N1ME4w?oc=5"
   },
   {
     "id": 4,
-    "image": "https://picsum.photos/seed/HersheydeploysAIdecision-ma/800/450",
-    "category": "Data Analytics",
-    "title": "Hershey deploys AI decision-making to solve supply chain disruptions before they happen - FoodNavigator-USA.com",
-    "date": "18.02.2026",
-    "description": "Strategic Insight: This article covers Hershey deploys AI decision-making to solve supply chain disruptions before they happen - FoodNavigator-USA.com - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR25icXFQWDctbFZFMG5sNV9MQnFNWmZVckZpMTZYVFRZX01CMjg4TXl4Um94NUhnS2ttTlFzVkFaamhwNVFBVHpNNVNtN3VLZXMzQzRHWld2TGx3QzBNVFFhajJDLXRJNC1ua2JGR1pFRDBJNXZGamdhZ09nVEUwTW5HSFRub0RHektSMWJ6WjJVcUx4dmg4Ri15MUYwR0JQbnZtT3hlLTd3ZkxwMW1Kc1BQalVJcWxiTW0w?oc=5"
+    "image": "https://picsum.photos/seed/BlueYonderFAQ%3AAI-DrivenSup/800/450",
+    "category": "Planning",
+    "title": "Blue Yonder FAQ: AI-Driven Supply Chain, Planning & Fulfillment Answers - Blue Yonder",
+    "date": "02.10.2025",
+    "description": "Strategic Insight: This article covers Blue Yonder FAQ: AI-Driven Supply Chain, Planning & Fulfillment Answers - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRNEdESG8yNHdMbzlMTWlrX19aYV9tSENEWE9IZ3IxbnNxOUgtLWowcGIzTHhlWkNieElSREF6SHZHUQ?oc=5"
   },
   {
     "id": 5,
-    "image": "https://picsum.photos/seed/SPSCommerceEmbedsAgenticAI/800/450",
-    "category": "Future-Tech",
-    "title": "SPS Commerce Embeds Agentic AI Into Supply Chain Execution - ERP Today",
-    "date": "10.02.2026",
-    "description": "Strategic Insight: This article covers SPS Commerce Embeds Agentic AI Into Supply Chain Execution - ERP Today - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpOUJSVXJtU3hkbTZiWVBFMW54VU5YbURtOUdIYkdjbURMQlY5ZVkzakNfVTJybE1SRVFJTDRrdlVPcl9kQXpRVnJkOWdmV0pmUWIyaA?oc=5"
+    "image": "https://picsum.photos/seed/Howend-to-endsupplychainma/800/450",
+    "category": "Planning",
+    "title": "How end-to-end supply chain management is helping India’s CPG giants ride the quick commerce wave - Blue Yonder",
+    "date": "26.09.2025",
+    "description": "Strategic Insight: This article covers How end-to-end supply chain management is helping India’s CPG giants ride the quick commerce wave - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUVRQMnpvaW9ESXZzeWZwOHV6TXczdkF1dzQ0dlRDeHVodlFQUXprblZpcENtWll0S280eWNmWHczSHVodTZIakJVYkZFUWRsellwY09pREU4MGpnQlp3aVkzMFNpZnJVaVZYYW8yU2YwY0pmemxJbnZNaG9xNW9zYTV1RzBtQkNKSlhLeTdJQXUwUG5udVpGUFJybEdGS1hub0E?oc=5"
   },
   {
     "id": 6,
-    "image": "https://picsum.photos/seed/AgenticAI%3AWhatSupplyChain/800/450",
-    "category": "Future-Tech",
-    "title": "Agentic AI: What Supply Chain Leaders Get Right (and Wrong) - Supply Chain Brain",
-    "date": "06.02.2026",
-    "description": "Strategic Insight: This article covers Agentic AI: What Supply Chain Leaders Get Right (and Wrong) - Supply Chain Brain - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkhBSWRoYmd6NVpZazc1S2EwNmdWZmtnZV9sUkZtTG52UGExZWRTVFd4SXc1OWlrQ1M0aWh3WWx1VU42clZGNWlHbEZyMldRUmlIVnMyTkJRaTNSNjhuUk9tQnV4VUdsMHdrbnpMdFlfRkhyc3B5eW1pdFNGb01MYk1mbEdaaDA4SXNhZ211WXpHOG5YdzRWV3pFSjByZ05zMnBua3M2QlE0U0tVLUFYaEFSa0tDeW5JSkg0?oc=5"
+    "image": "https://picsum.photos/seed/DemystifyingAIinsupplychai/800/450",
+    "category": "Planning",
+    "title": "Demystifying AI in supply chain: The enterprise blueprint for AI transformation - Blue Yonder",
+    "date": "27.08.2025",
+    "description": "Strategic Insight: This article covers Demystifying AI in supply chain: The enterprise blueprint for AI transformation - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0takxBSHRkY0FyRENzLTNRNUExSWM0QlBtQ0pGVmxIQnVPV1N6M3NSLVBodGJWdGd0cTltOF9NU05EeEhlcFowLVVyV2g2TGx4b1VSU29FM0JHLS1VcURyQnpXYmZoMFFtTHNydVFabFpPQQ?oc=5"
   },
   {
     "id": 7,
-    "image": "https://picsum.photos/seed/Nearshoring2026%3AAgenticAIa/800/450",
-    "category": "Future-Tech",
-    "title": "Nearshoring 2026: Agentic AI and the New Supply Chain Blueprint - Mexico Business News",
-    "date": "04.02.2026",
-    "description": "Strategic Insight: This article covers Nearshoring 2026: Agentic AI and the New Supply Chain Blueprint - Mexico Business News - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUN3cnFDOWpKWUpXZGFEbnNDMnVyVWQtdDlieWtWRWUwUkhfR1YxYjd3VW1SVHhzQlplbHdoZ0JTNUg5c3BteWpIQW1rdHI0UWltbUNGUnlQd1FIMm5BaFVBdE1DZ3pibEJETDRsX1hfRklTT28wN09vcEtYTVJERmstXzdNZWFObmVCeGNONXY4b2k5Y0steS1ncFRGbEk?oc=5"
+    "image": "https://picsum.photos/seed/SustainableSupplyChainManag/800/450",
+    "category": "Planning",
+    "title": "Sustainable Supply Chain Management Solutions - Blue Yonder",
+    "date": "15.08.2025",
+    "description": "Strategic Insight: This article covers Sustainable Supply Chain Management Solutions - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OVldsVHJ3WTFiZGRwNk55QTNybzJIeWljN2FVaWZTcXRVc25jbGJUOGtYUnJhTXg2QmtpU2JCblBPSjFvV292ZTdVTkZSeDFDZGkyb3V2S3lvOXYtTXFNRlI4WVZSWG9mNFhsMjFiXzdyUkVpaWRv?oc=5"
   },
   {
     "id": 8,
-    "image": "https://picsum.photos/seed/HowWillYourSupplyChainDec/800/450",
-    "category": "Data Analytics",
-    "title": "How Will Your Supply Chain Decide, Act and Win with AI Agents? - Supply Chain Brain",
-    "date": "02.02.2026",
-    "description": "Strategic Insight: This article covers How Will Your Supply Chain Decide, Act and Win with AI Agents? - Supply Chain Brain - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWFCZnZrc3RTVGlkZTlIUDI5U2g5Qjk1RGhlcDU0TnI0bWdldDBidmJwUE9tN2s2UDRsNWRnUW1ncHdBc1Y3R3FDQVdnVDZCZ0R5NmRSOWVJdTlKTW5nMy15Wjh3ZTRhRldrd0RDMEh2R3Jzb28xaDI5MWN4eTZJYmxVN05XRHRQNGFEZXdyRGMxeWF6LWNqVFV0MGt1cklVZTU5TWp5dC1pWEg3?oc=5"
+    "image": "https://picsum.photos/seed/InsidetheGartnerTop25%3AHow/800/450",
+    "category": "Logistics",
+    "title": "Inside the Gartner Top 25: How supply chains are embracing the future",
+    "date": "14.07.2025",
+    "description": "Strategic Insight: This article covers Inside the Gartner Top 25: How supply chains are embracing the future. Visit source for full technical details.",
+    "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=69bfece5bf904732845b91350539f7df&url=https%3a%2f%2fwww.scmr.com%2farticle%2finside-the-gartner-top-25-how-supply-chains-are-embracing-the-future&c=13767011018741529665&mkt=en-us"
   },
   {
     "id": 9,
-    "image": "https://picsum.photos/seed/HardisSupplyChainExpandsOp/800/450",
-    "category": "Smart Manufacturing",
-    "title": "Hardis Supply Chain Expands Operations Across North America to Bring Scalable Cloud and Automation Capabilities to Modern Supply Chains - Food Industry Executive",
-    "date": "01.02.2026",
-    "description": "Strategic Insight: This article covers Hardis Supply Chain Expands Operations Across North America to Bring Scalable Cloud and Automation Capabilities to Modern Supply Chains - Food Industry Executive - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNb2loaVBOOFVXcDM4TG5Ed09USTF6aU5zeHZ1NE41c2xNSUNGVjNUN09ZWXhaZlJSZHhQTEpqa0psNk0yZUZ2UXNpMnhIeDRkWm1veVAwSE9lNnhZaDh5U0dBVDhtVjJSZjNudDNqeGlmUm5UWFcxV1NXcElxTzEyOFkxd0w3ZjF3X3g3aFJTWTNmQUlWaFBmNl9NNlNGdWxhdElTVjJYbjhjY3hObWdEakVDSDRNYms4X0h3RkJESTY0MmNQVVhENnl6clR5ZjRaQnNhWjhnSTNQQ1g0NGVBTkZNVTl0TGg3REFGdXUwbW1MajI0NXRhNS1mVk5QUDVNWl96VndZNUZ0d9IBjwJBVV95cUxQT05iVHVZelF2bXFkNVJ6dVctMUZ4eFozTjJlMFdtTkpZZlY5Z3hsdmJmZWE5U1V1VDdMRjQ3UWl0YktKYVRlNnFLY0VWbWNVbmF1RE9LQkRnUkl6bllKaDU0NFNIU00wN3RmeTh6Nm11ZENIREVVOXBpZTZNVWhIa0djZDhEc3pxeWw2SHo0bEZxM1plMktVdXN4VFA3UERXdzU4SHUwMElTNjBsWnJQTUtERlZZcXJCTjVSNlU3ZXJKZV96dFo2NTlpcGFCdFdpYVhPLVlDS1h1WHZJZW9TeG1FQ2dPVWxRWV9WbkRsSDVrS29IVXFJNEUwTmItOW0wRHA2S1RpSklkWTZIT3ZF?oc=5"
+    "image": "https://picsum.photos/seed/SupplyChainCommandCenterSo/800/450",
+    "category": "Planning",
+    "title": "Supply Chain Command Center Solutions - Blue Yonder",
+    "date": "31.05.2025",
+    "description": "Strategic Insight: This article covers Supply Chain Command Center Solutions - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jWFFuMnpycnJzbWtGaHVfNkFMbWNFSUExZXFCSGNEalhjQ0x0NjVLbFREdWVmLVZtSjJjN05kbkVGbVVVUUNNcG01Zk9UR3BwUGVHWGtxOHhjM3VmVGQ3T193SDl1Rmx2c3Z6Q0JKTlo?oc=5"
   },
   {
     "id": 10,
-    "image": "https://picsum.photos/seed/HowItem-LevelSupplyChainDa/800/450",
-    "category": "Data Analytics",
-    "title": "How Item-Level Supply Chain Data Protects Food Safety and Reduces Waste - FoodSafetyTech",
-    "date": "26.01.2026",
-    "description": "Strategic Insight: This article covers How Item-Level Supply Chain Data Protects Food Safety and Reduces Waste - FoodSafetyTech - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREtCVTRNTXc1eEpWRGFpbVBxTHIxcjlYWGhRUjVuTFNNRV9yWkxScEpKN3dXRVVGM0M3N0twRUV5bnVBV3ZyRnd6VmVYSi0ya2VzNmRXMWVkTEsxOE52VmgtQk9mbldFSzlJWXltWEZsY054U25WRVE3RVptUHVhc3JtanZhWWpIWUJLRmlqRUhyUXNaVXdlaDFVVXRXZEswdElUbjh6THRPRF9BZ2VVZjdQTGFIdw?oc=5"
+    "image": "https://picsum.photos/seed/RedefiningSupplyChainExcell/800/450",
+    "category": "Planning",
+    "title": "Redefining Supply Chain Excellence in the AI and Digital Network Era - Blue Yonder",
+    "date": "08.04.2025",
+    "description": "Strategic Insight: This article covers Redefining Supply Chain Excellence in the AI and Digital Network Era - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXF3Z3ljQmt2MEdmSXlVbm9MNHhoVFo3TG51eTl0eFhQbjdEZVdFTE52UTk5M2ZxZUt1UHhaWXFkeW9lQk0tT3p2bXl3cmdqcS1RczNFTHhOVGVXck1sV01tWHNnM3FwXzdYRHhuU0d2QURaUTBVUWVOVEE1OHFTYkFCQzVydGNzYWk4RFlLWnJkYlFGQUlaby1tbWR4N1RoVzRZ?oc=5"
   },
   {
     "id": 11,
-    "image": "https://picsum.photos/seed/PepsiCousesdigitaltwinsto/800/450",
-    "category": "Smart Manufacturing",
-    "title": "PepsiCo uses digital twins to trial plant changes - Supply Chain Dive",
-    "date": "20.01.2026",
-    "description": "Strategic Insight: This article covers PepsiCo uses digital twins to trial plant changes - Supply Chain Dive - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWdWZzBMQ25SdmFVcTR4WGNQYVI4Zk5lQzUtN2hvbk00OEI2MS1ZVlNsVTBqdGdRbDB0a1hiOUVMZlVsVUIzNkg3SW9Cck5zbWRjYzdSOGFObldBbmkzbV9UU3RLU19iX1FCOWFVTFd5bmtjc25lbkxrYm1qOEVhR1hac0RCbWwwOXNkUlcxUVJrY05scW1XVDVfNmpEMEJScWpMMUJaYmpqTWpMdEE?oc=5"
-  },
-  {
-    "id": 12,
-    "image": "https://picsum.photos/seed/PenskeLogisticsAcceleratesA/800/450",
-    "category": "Future-Tech",
-    "title": "Penske Logistics Accelerates Agentic AI Supply Chain Initiative with Augment - PR Newswire",
-    "date": "14.01.2026",
-    "description": "Strategic Insight: This article covers Penske Logistics Accelerates Agentic AI Supply Chain Initiative with Augment - PR Newswire - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVNxcEFoM3V3ZE0tSHBHSkhlX2R6Q0cwSlRWYVVWZkIwREJtakFPSWkwLVpXeUw0MFk2Q2FVenRVY2thZnBFZDNLbEV5UERCVm5WVF9iQkpaTmlnaXFkMzhHa3FSOFNtbXd4Ykdib3gzaTB2UzZEMnlQS0IyU1k3cmdpcDgtTzRXVUMwM1k1YVJSRXA4LWlvWWozaE1vTnlMa1pIZmRDRnA5djhmZVpEODE4T09PdXpLeVVyb1J5MkxheTNZRlVVcnZwaU8?oc=5"
-  },
-  {
-    "id": 13,
-    "image": "https://picsum.photos/seed/PepsiCoannouncesadvancedAI/800/450",
-    "category": "Data Analytics",
-    "title": "PepsiCo announces advanced AI collaboration to transform supply chain operations - Milling Middle East & Africa",
-    "date": "09.01.2026",
-    "description": "Strategic Insight: This article covers PepsiCo announces advanced AI collaboration to transform supply chain operations - Milling Middle East & Africa - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREpGT3dpSHVadDNMaWJ1SDFGNjA4ZEd6NHhEYWlrekcycU5JYk1hVEZUZlZsUDZIamoxaVhBVERLUFhjUTBRVzhxUjIzZWkwUUg0RTVGdkxxN2REanFDOTZoY1NOM3dtc0RnT0tEcUcxaFprN2h5VzJSQVYyUHJwMVFueFNrN2l5NjZ3N0QzSnZLZWxINXlwMFp5YS1ybnBLNEs2Q25hRQ?oc=5"
-  },
-  {
-    "id": 14,
-    "image": "https://picsum.photos/seed/HowPepsiCoisUsingAItoTra/800/450",
-    "category": "Data Analytics",
-    "title": "How PepsiCo is Using AI to Transform Supply Chain Operations - Supply Chain Digital Magazine",
-    "date": "09.01.2026",
-    "description": "Strategic Insight: This article covers How PepsiCo is Using AI to Transform Supply Chain Operations - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3VIeXVFVHhpVW9VSThCMHBrVzJUOGZpWHNXZG1mTlpYajlMZHh5RnNyS0poc0hHM2lKdERkaF9xRkVNRzhDUGNOZVIyb19IbEFqdXJkdmFubGdrMGZ6VVhJQ0s3VTAzd1YxTmlXNjl5ZkowbEh1N1duOXA5UGVramhoZk9uWjduemowa3hYSFk1V2xrYnAyLTJ4Y0o?oc=5"
-  },
-  {
-    "id": 15,
-    "image": "https://picsum.photos/seed/PepsiCoPartnerswithTechCom/800/450",
-    "category": "Logistics",
-    "title": "PepsiCo Partners with Tech Companies to ‘Transform’ Its Plants, Supply Chain - Food Manufacturing",
-    "date": "07.01.2026",
-    "description": "Strategic Insight: This article covers PepsiCo Partners with Tech Companies to ‘Transform’ Its Plants, Supply Chain - Food Manufacturing - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd00xM2pCNXoyd3N4LUNoWUZUbVFOZ1otME5hZjRoVFBqUjdWOGJCS3F6dEN5dHgtSVRsLU5zQWhWaWVlcFRsLURoekJSMVUzXzdUNUItc0l5ZWtYVUZsMFh4dzZ3Rll4RGo5dzlZRDFseC12eG5fQ0JwS09wZ2xVRUxscU5PMTJmaDcxenhsZnpZdVJrWlpRRWY0eWhheTVFbzIzSVE3dzg0WlBfWHE2cmN6Yjl6bnA2N08wbXZ0c21XeDlVREE2cGpB?oc=5"
-  },
-  {
-    "id": 16,
-    "image": "https://picsum.photos/seed/PepsiCotoGetAheadofSupply/800/450",
-    "category": "Smart Manufacturing",
-    "title": "PepsiCo to Get Ahead of Supply Chain Challenges With 3D Digital Twin Tech - Consumer Goods Technology",
-    "date": "06.01.2026",
-    "description": "Strategic Insight: This article covers PepsiCo to Get Ahead of Supply Chain Challenges With 3D Digital Twin Tech - Consumer Goods Technology - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHRxVXEzb1ZLVnRKVVZaRkZ5bEQ5N01DdDIzMmk5R29pQVd5UXQ4aUREQzRZcFp4bW1TWE53ODhGTlZrWDBpSjU2bGQzVnlTeHRvamt4cnBpZFVuZ19fOHRacE1tMWY4amFhRWs5a3ZYSkVxRmtLSFViaFRxT1BWTDBOc3M2SExWbEt1QklLMDRyQQ?oc=5"
-  },
-  {
-    "id": 17,
-    "image": "https://picsum.photos/seed/4strategiestoboostagentic/800/450",
-    "category": "Future-Tech",
-    "title": "4 strategies to boost agentic AI success in your supply chain - Fast Company",
-    "date": "24.12.2025",
-    "description": "Strategic Insight: This article covers 4 strategies to boost agentic AI success in your supply chain - Fast Company - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUFZQVNDNGQ3cnBUYzdMekVib2N6V3hwTVFwMWtXeHFFQnBlQVNNcDgyX2p0WDZQYUpVSXNtdXJidW0yazkwOWM0OTJ3Y3hJN25qdlI0LURrakVjQWE3a1FyRDdCOTVneTF5LV9aM2pHTUIyU09Tb1U5VGdCN0ZuWEJSQ1dud3RsNFhrSmJFZEpiRnJpSTRuS243bTJZZWs?oc=5"
-  },
-  {
-    "id": 18,
-    "image": "https://picsum.photos/seed/CanMars%27AIRedefineClimate-/800/450",
-    "category": "Procurement",
-    "title": "Can Mars' AI Redefine Climate-Smart Sourcing? - Supply Chain Digital Magazine",
-    "date": "17.12.2025",
-    "description": "Strategic Insight: This article covers Can Mars' AI Redefine Climate-Smart Sourcing? - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzWkhOejZ2T0hHVEx2RVdoOXg0QzFaYXpldVpULW81NTNlclh1Qks5azFwWHJmSmR0WnRfQ29CdGJ6M0JFRkVZTGs3OWhScnA0MTN3OHB4ejNPRXlDNF9TRThKQWxCY3VDTmcxNVlvdFdtdGJRbHdhRTFn?oc=5"
-  },
-  {
-    "id": 19,
-    "image": "https://picsum.photos/seed/25TopSupplyChainCompanies/800/450",
-    "category": "Logistics",
-    "title": "25 Top Supply Chain Companies to Know - Built In",
-    "date": "03.12.2025",
-    "description": "Strategic Insight: This article covers 25 Top Supply Chain Companies to Know - Built In - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6d1NkbUlMcU9yTlBEeGpNaS02ZTAwNUw4dFJpVTVIeGdaeGNfdVprc0wwUnFxb3RsOTNCTXdqS0duTDRsOXZFTEtzTkRIVldTdGE2STlJbktmejhkbURYVQ?oc=5"
-  },
-  {
-    "id": 20,
-    "image": "https://picsum.photos/seed/HowAgenticAIisorchestratin/800/450",
-    "category": "Future-Tech",
-    "title": "How Agentic AI is orchestrating the food supply chain - FoodChain Magazine",
-    "date": "06.11.2025",
-    "description": "Strategic Insight: This article covers How Agentic AI is orchestrating the food supply chain - FoodChain Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGxLcThHMVdpRjAzX2tjSnlHN2ppUm9mSGI1dk9LNHhDeDdnMUxaUU9NbTctakxJbkZ0dEZmQUx0dXozQVQ4Y0R4a05EcDIwM0lFcEgtdlh4a3dmZXhPVjRlR1ZJZUoyd3AyNzJJZkNJT3E0MXNVeFhFcFhmTDJqdTdrU3VucERjbGJkQQ?oc=5"
-  },
-  {
-    "id": 21,
-    "image": "https://picsum.photos/seed/NewAmazonsupplychainsoluti/800/450",
-    "category": "Future-Tech",
-    "title": "New Amazon supply chain solutions include agentic AI, smart glasses - Chain Store Age",
-    "date": "22.10.2025",
-    "description": "Strategic Insight: This article covers New Amazon supply chain solutions include agentic AI, smart glasses - Chain Store Age - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkN4dDdxV2J2ZENWZEhIelBJdVZUNWdlTzR1VDI1Q0RSc3ZSVnhXcVkyOVBpUUlLRGdJUGdPU3k5dVplRVM2UEMzVWlrdUZ3Z1NNXzlOQUZEMnJXUlYtNGZHdWNMNS1RQjQ1QVB6Vjl2dW9aeDU1MUxQZVJVVHRISjMzZF9HM1F0ZDN5RmpLZVBLamgySDBZ?oc=5"
-  },
-  {
-    "id": 22,
-    "image": "https://picsum.photos/seed/OracleShiftsFocusToAgentic/800/450",
-    "category": "Future-Tech",
-    "title": "Oracle Shifts Focus To Agentic AI For ERP And Supply Chain - Forbes",
-    "date": "15.10.2025",
-    "description": "Strategic Insight: This article covers Oracle Shifts Focus To Agentic AI For ERP And Supply Chain - Forbes - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVC1xek5wZW1qcExENDRfamtHdGpoZ2JQMXl5TEJhU3ZuVFlMRVBiZ01MS0xLLVllaFJTazF0UjF6djZ2VFZVa1dsYmhNWmMxYXJ2eDRwLWh0eW9NNmRkUWJKVF9vSHB6N0pKU0VFR255ZVp6YTdINE4ydTUzaTZUNHk2NFF4ZnlJZlp1U3YzMzRwWjJhRWhETWhIb2pWMU5qcUZISVh4TEY?oc=5"
-  },
-  {
-    "id": 23,
-    "image": "https://picsum.photos/seed/TheIncreasingRoleofAgentic/800/450",
-    "category": "Future-Tech",
-    "title": "The Increasing Role of Agentic AI in Supply Chain and Logistics - Supply Chain Brain",
-    "date": "09.10.2025",
-    "description": "Strategic Insight: This article covers The Increasing Role of Agentic AI in Supply Chain and Logistics - Supply Chain Brain - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ01qaXcwMGw0UU1FSGdpdURtcVRka1VTVWM4RzFjTXRySzJFYWctREtIelpoRGdBeDZuelBIVzJyZllPMmRPSGk5SGdGX0pTOFlyTWdHWVNPTEFDOVVQQ0REOFhCVmh6cHdXRUp4X0xxNjRSbTBxbTBmZENqSExIMjBoVWtQYlVncm81Y3pfckJLT3VBVTFGak0tTFgyQVRMdGhPT3dVVTEyb3Jua3JYN01QSzNNOGwxRkdLWTNFa21zb2Vl?oc=5"
-  },
-  {
-    "id": 24,
-    "image": "https://picsum.photos/seed/Techstartupraises%243.8mtom/800/450",
-    "category": "Future-Tech",
-    "title": "Tech startup raises $3.8m to modernize the food supply chain with agentic AI - FoodNavigator-USA.com",
-    "date": "01.10.2025",
-    "description": "Strategic Insight: This article covers Tech startup raises $3.8m to modernize the food supply chain with agentic AI - FoodNavigator-USA.com - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdlc5SDNjbE82U0ZSRWZtenlCRDNCWW1GR3drRHd1SkFTc1pUcGRmN2ZIZ2VVRjVyYm1pUjUtY1dfcWFPYjRsSzZHSklGeWV6RjV1cktMNUU0V2lkb3VONWJBSnR3dnV5T0tGb1lTUmt6VkQ2WUo5MUlnNkdobzYwOUhuV3JBcmF4WGlCQjQyLWJLb3RfbXJ5dlJRalMybG44WGtPYUJHZngyZlRPUS1SMTZUSU1aTmUyMTJwdUd3?oc=5"
-  },
-  {
-    "id": 25,
-    "image": "https://picsum.photos/seed/CenturyPacificadoptsAItool/800/450",
+    "image": "https://picsum.photos/seed/SolutionArchitect%E2%80%93SupplyCh/800/450",
     "category": "Planning",
-    "title": "Century Pacific adopts AI tool to optimise supply chain planning - IT Brief Asia",
-    "date": "24.09.2025",
-    "description": "Strategic Insight: This article covers Century Pacific adopts AI tool to optimise supply chain planning - IT Brief Asia - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlVjOHk0cU02LVh2Rm9oeVVJTkhxZ3A0UlhLLXh5ZmtKSEd6QzRxTENMMVdrTElRZHR3Tmw1dlNnOWVZbHB4WUE3d05mb1llU3E3cG5WRl9UejhSbUV1VDlKTXh2MmhEdmNWeHpablRna2dmNHE3OFp6NnUzTXZuMHhWWUdNOElVR3g2N1ptbjBXYUQ5ZVE?oc=5"
-  },
-  {
-    "id": 26,
-    "image": "https://picsum.photos/seed/CenturyPacificpartnerswith/800/450",
-    "category": "Planning",
-    "title": "Century Pacific partners with Blue Yonder for AI-powered supply chain upgrade - Daily Tribune",
-    "date": "16.09.2025",
-    "description": "Strategic Insight: This article covers Century Pacific partners with Blue Yonder for AI-powered supply chain upgrade - Daily Tribune - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQallPSDB3eE5wZXl2dlNPMVNnZEhYWkJnYkNObHEzdFJlRmVDbll5NzAxaUxlTW9wRFF3VGpTb1BzS0oxZWZDZ0RHR1NtRG82OXd1QXFjMlZFcHJvQjFrQ2ppdkQ3MG1ZTGJSNHRqOWJvNF94U2ttVGNvR1plSG8zTjVxTWp0TFpTOFgtWklhdmRZdTVYa0pvLUNyeF9pQTBBWXdXLXZ3QlFFX1JaVWdBVtIBvgFBVV95cUxQY0xxWl93SE53bWtQdF81dWx4TTNqSTRfVC1XTjdCeF9PZVVzLUxiOTVBdU80MkxNcTE5V3FuVGxabXRacVFkSnJsQTR0UjR2ZnZrUEdkZjNYemFRdFJ5M0VQV1ZDakptM3h3bnBpSXZETmhYbDM3V2xzUU1vc1VDZXZkTVl5clZaU0pyWGRWSzh1WmJ3Tk1lRU50MGNHRk9qamNaam9Lazdwek1QdGxJSk53N2FMa2RpUHdHU1RB?oc=5"
-  },
-  {
-    "id": 27,
-    "image": "https://picsum.photos/seed/NatashaMartinezNamedOverall/800/450",
-    "category": "Logistics",
-    "title": "Natasha Martinez Named Overall Winner 2025 Women in Supply Chain Award - Workforce Development - PR Newswire",
-    "date": "03.09.2025",
-    "description": "Strategic Insight: This article covers Natasha Martinez Named Overall Winner 2025 Women in Supply Chain Award - Workforce Development - PR Newswire - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZkVqNU9FcVdMZWtzLTJmRS1jeEg2MVZvRm9ubnJjQmgzLVd2UERlckQtRWIyMjl2bzREb29tS0RSOGVNd3puLU9veFZoNDkySWpDejAxTUxrc3pJRlZrVUt3OW5STElndkN3UzVHYVVia1M3QTItUVk2S3BPU0VzdWtPb25INDYxcUZzZXJIWFhJOUVSQ2gzUENzTDZOd0RQMHlDTzVOWlN6ZEZjelRiY2pSQ1o4bXJ3WmxoeTZ5alU0c2pFd2RHQlB5ZTZ4VkRtYWZiN19MZTdnaUNXeEtsSVlzZw?oc=5"
-  },
-  {
-    "id": 28,
-    "image": "https://picsum.photos/seed/WalmartDeploysAIAgentstoT/800/450",
-    "category": "Data Analytics",
-    "title": "Walmart Deploys AI Agents to Transform Retail Supply Chain - Food Digital",
-    "date": "01.09.2025",
-    "description": "Strategic Insight: This article covers Walmart Deploys AI Agents to Transform Retail Supply Chain - Food Digital - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QYmNUQm9nMjJKWFA0Y1hieW9lTW5XZnJ4a0ZKM0ttcjBXdHpXSFJDMW1ibHYzUlJFcEkzMVVOS2dBZDZCMzc0TFRwYktlbDJCWndRS1ZlNXMtaE1jSnlvbUVn?oc=5"
-  },
-  {
-    "id": 29,
-    "image": "https://picsum.photos/seed/UsingAIforTransformativeSu/800/450",
-    "category": "Planning",
-    "title": "Using AI for Transformative Supply Chain Planning from Farm to Table - SAP News Center",
-    "date": "18.08.2025",
-    "description": "Strategic Insight: This article covers Using AI for Transformative Supply Chain Planning from Farm to Table - SAP News Center - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2RHMWVVWUI2UzhiS1RyZmNMeENEUmpNY0JiY3M5UEhSUUZNZmtEcl84blJFUzRINHl0R1lDYTNEV1BtMTVqdDFseVBYNVdobHljakVOX3hKQnJ1ZF9MUkpySS1oOTlSQ3FFSFFFd2pnUGVXVmVyazhNN0JTY1BuX0pzOFRXTUNlVjlhT2Q3YnE?oc=5"
-  },
-  {
-    "id": 30,
-    "image": "https://picsum.photos/seed/RadebergerBrewsASmarterSup/800/450",
-    "category": "Logistics",
-    "title": "Radeberger Brews A Smarter Supply Chain - Inbound Logistics",
-    "date": "07.08.2025",
-    "description": "Strategic Insight: This article covers Radeberger Brews A Smarter Supply Chain - Inbound Logistics - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmMtT2s3M2k3Tzg0ckxKYVIwWEFpS1dINUo4YlRzdklPMUE1Q2xLNHg3Q0syX3E1ZDg3dmdxUjRzam5xODZkRWIwTzFMWEtRZFktV0hUZHBNbXpyNFVEUUZNX3ZYX1hsVzVNTlU1R2ZKdXVqOUNlVlkzNFdKWWZBNFhUM01PMGpGRnc?oc=5"
-  },
-  {
-    "id": 31,
-    "image": "https://picsum.photos/seed/WhatketteQ%27sSeriesBFunding/800/450",
-    "category": "Planning",
-    "title": "What ketteQ's Series B Funding Means for AI-Powered Planning - Supply Chain Digital Magazine",
-    "date": "06.08.2025",
-    "description": "Strategic Insight: This article covers What ketteQ's Series B Funding Means for AI-Powered Planning - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemJUS2wtRzJ1N3IwVm1sSHJhd2M1OGdGZG5MMFE5SWRZMW1TV0F0Tm83UV92MkkxaDhOb2lZeE92bHhOVDhoeG5taklwY2JIT2RWM3VuaTlEazFBRmRuMEZjZzctOENuS0JuMzJDUzZkNnVjRUs1WVZGSzU3M3ltMkpyRjNTUQ?oc=5"
-  },
-  {
-    "id": 32,
-    "image": "https://picsum.photos/seed/AgenticAIAutomatingEnd-to-E/800/450",
-    "category": "Future-Tech",
-    "title": "Agentic AI Automating End-to-End Logistics and Supply Chain Processes - Nasscom",
-    "date": "31.07.2025",
-    "description": "Strategic Insight: This article covers Agentic AI Automating End-to-End Logistics and Supply Chain Processes - Nasscom - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNajNPamY1Qzduc0JONTdIZWgtN1VKeGtiNndEM3RaWkdVb1lqZVJNMldDdjFHd2hGeGVsTGs3VktjZWFtRURvTnNySVQwUkZjWG82eU8zRXpzekx5dHZTSXpGdEJYQWs0UG9FTThjUHhQRkkwZjRxa29NeWR1b0RmSDZKUENpU3VBYzVlOEducHRYOWlnMklIWThuOWtYNThnb0dla3lqTWZXT2VhMWFzRWx1LXFrWnBDZDFpR0dldXJ6NkU1dXc?oc=5"
-  },
-  {
-    "id": 33,
-    "image": "https://picsum.photos/seed/TheRiseofAgenticAIinthe/800/450",
-    "category": "Future-Tech",
-    "title": "The Rise of Agentic AI in the Supply Chain - Supply Chain Brain",
-    "date": "08.07.2025",
-    "description": "Strategic Insight: This article covers The Rise of Agentic AI in the Supply Chain - Supply Chain Brain - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXpJZ2t2Q01STEppOWE0ZG5TVFMwZzB5aUFGdEkxMWZiZzJMRHhWM1RYR3VpVGJiOVNnUUpOSE1iajRFN2x3ZzktMklseWJ5NjJFeG83OEYtZS16U0VQYk13SVNFUkNkcDlJSzZielU4NGloSUdzdENTakd6TWlWSXNzRWdHWnZWNjdacHdKNllmWjF4OWJnMmZpa2ZocFdhQjJDZFJQd04?oc=5"
-  },
-  {
-    "id": 34,
-    "image": "https://picsum.photos/seed/HowPepsiCoisLeveragingAgen/800/450",
-    "category": "Data Analytics",
-    "title": "How PepsiCo is Leveraging Agentforce AI in its Supply Chain - Supply Chain Digital Magazine",
-    "date": "26.06.2025",
-    "description": "Strategic Insight: This article covers How PepsiCo is Leveraging Agentforce AI in its Supply Chain - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSGg2Z1VDQTdfX0FwdC1uSktYaGJzLVhNaU5iMXBsZlNOSjZmVDFNaXhvRllXMmI3V2xvQTRyWDRKZzh4RTJZQVRnd01NVnRuOFdBMVNsdDl5SUNiT0xxTndPaE9PeW9XZmtBZE9CeUgxbF9VOHBIcUV3ek96MVhzVGY3dUpQY1BkVHh5M2hxaTdrTUdPcWxQRWZBa3RLbEE?oc=5"
-  },
-  {
-    "id": 35,
-    "image": "https://picsum.photos/seed/Q%26A%3AAgenticAIinretailand/800/450",
-    "category": "Future-Tech",
-    "title": "Q&A: Agentic AI in retail and supply chain planning - RELEX Solutions",
-    "date": "16.06.2025",
-    "description": "Strategic Insight: This article covers Q&A: Agentic AI in retail and supply chain planning - RELEX Solutions - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMURMU1JDQlgtOXZKM1E4TjhES0xGYzkzOGlPZlRqbVNYVTBaLXFIRVpNWkpIclVibzhLQWwxTHdEVy1iaFJzRjZrOUhEOEM2NWc5dVRVbzBKZHVrV1VyTEwxNURHNzYtR0J6RUhxcUpZNW5vZUtpRTBlcjl0NVdvTjFKeHVCSUVYalZIcE55MUZzdw?oc=5"
-  },
-  {
-    "id": 36,
-    "image": "https://picsum.photos/seed/SaskiavanGendt-SupplyChai/800/450",
-    "category": "Logistics",
-    "title": "Saskia van Gendt - Supply Chain Digital Magazine",
-    "date": "06.06.2025",
-    "description": "Strategic Insight: This article covers Saskia van Gendt - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmJJc09nSjRwTEVYVWwxR1JfamhlV3NvczBtMy1zbDI5SUVPeEEwMmw4NVBkdUdhbHRMTWVuQlhFNXpPU0ZQaEt5Vzl0ZGNjbE5KSktGTFZmQmFXVEt5aUJkcVp3TGt4bXJGd2o3NHpLSXB3dldRRjZrdzRSR3U0cmFDOW8td2M3bDRRNWtn?oc=5"
-  },
-  {
-    "id": 37,
-    "image": "https://picsum.photos/seed/LineajeRedefinesSoftwareSup/800/450",
-    "category": "Future-Tech",
-    "title": "Lineaje Redefines Software Supply Chain Security with Agentic AI-Driven Risk Elimination, Gold Open Source and SCA360 - Business Wire",
-    "date": "22.04.2025",
-    "description": "Strategic Insight: This article covers Lineaje Redefines Software Supply Chain Security with Agentic AI-Driven Risk Elimination, Gold Open Source and SCA360 - Business Wire - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX0dMSUc3V1ExY2h6MDlXVDVfdEJqVWpjMm93MUlQbXpnZU1IeTNCcGhINmVGMkttb3VURzFtT1dPcHI1MnhuN21ick45dVV2QmNkUG9HNzROandfR21sVFpZZ09iVWRFbTZtOE5VcnJNcS1aQ1k3aVZwdmJZR2t6YlNTOGhhZDFIUXlKaGVRNmVneWE0V1djd1hHeDJXNW1SUmJrRWlpM2h6QnlIMF8zTkFfUzNaQW1CdC1QQmMzcXQxXzhlcU1MTElraUppYTM2SWVLbFJwNFpCZDgtN3dkSDJFd09tcXVvQjJyX1AySm5ha0NHN2MtMU1JdnZLcmJTZlRN?oc=5"
-  },
-  {
-    "id": 38,
-    "image": "https://picsum.photos/seed/BlueYonder%3AShoppersWillPay/800/450",
-    "category": "Planning",
-    "title": "Blue Yonder: Shoppers Will Pay More for Sustainability - Supply Chain Digital Magazine",
-    "date": "27.03.2025",
-    "description": "Strategic Insight: This article covers Blue Yonder: Shoppers Will Pay More for Sustainability - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2RXbk15TlNCZmRhUUhvS1pCTlpBdFpXUTV0NjlkcVRQVUMtdzVMZkxBUnVjNnRtWDRaUWI3WnhsZmZCYjZ5b2U0alpjWTYxTFB5U2E1UGN5ODIteS1JWk1LekVOSU41T1JoWXhnaURZcFliTnU5LXgzRUV3X2FpQUF6elY5ZnJUdDVENVRBNTRxUk9jUnVNaQ?oc=5"
-  },
-  {
-    "id": 39,
-    "image": "https://picsum.photos/seed/2025Top100Logistics%26Suppl/800/450",
-    "category": "Logistics",
-    "title": "2025 Top 100 Logistics & Supply Chain Technology Providers - Inbound Logistics",
-    "date": "26.03.2025",
-    "description": "Strategic Insight: This article covers 2025 Top 100 Logistics & Supply Chain Technology Providers - Inbound Logistics - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03UF9CZTA2Y1puVXpxNFM4b3VEcjByR25nMjVxOW5DbFduYk5zNlpkcktHUG9neVpEV3gyRDBNb2E3U2ZId0pyN3hEaW5PR2RZdGJKMnVlNGF4TmNGbURWcDlpTGNwdHVmUTh3SEtlZUh3YVVQVFVQOTJjdkRiUQ?oc=5"
-  },
-  {
-    "id": 40,
-    "image": "https://picsum.photos/seed/InsideRadebergerGruppe%27sDig/800/450",
-    "category": "Smart Manufacturing",
-    "title": "Inside Radeberger Gruppe's Digital Twin Transformation - Supply Chain Digital Magazine",
-    "date": "25.03.2025",
-    "description": "Strategic Insight: This article covers Inside Radeberger Gruppe's Digital Twin Transformation - Supply Chain Digital Magazine - visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTndCcEl4QXMxTUJRQWxURV9jc2g0b1ZoRVhmVC11MHBpNElaQ2VhSjEwN1RkWkNhOVJGOXdKaHczWkZrZzJlZFNBS3c2VEVFUGFPWWdfOXRSczBMNEJNRENKMEVOS3hlSTM4RFo4cVN1M2lhYjItai01X0hKTnhjTnRCU3hjMkxfa1U3ZzBGbw?oc=5"
+    "title": "Solution Architect – Supply Chain Planning (Manufacturing) - Blue Yonder",
+    "date": "08.04.2025",
+    "description": "Strategic Insight: This article covers Solution Architect – Supply Chain Planning (Manufacturing) - Blue Yonder. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXpzZUZGWkxKLXVZU0oyakhsb3hhUTBTWU5DUEMzNDZfdHNhcjRBc1FvNjNzNFo2LVhlaGNiaXQybWxIZmt2MFRDU0pVYkd2VDZOQW5tM0ZGZ3hvOFh2QS1jbVpoYTdGVmNDTHl3UHNiU2JPczA0Sm1kaUVfZXhickkxWUlsbXRGSlFTUzBySnZMdVo5OGlDa1N0NjNUSTF4LXVveA?oc=5"
   }
 ]
