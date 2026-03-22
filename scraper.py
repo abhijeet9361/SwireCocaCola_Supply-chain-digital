@@ -5,12 +5,12 @@ import time
 import urllib.parse
 import difflib
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 from newspaper import Article
 import google.generativeai as genai
 
 def setup_genai():
-    # Hybrid loading: Works on Local PC (with dotenv) and GitHub (without)
+    # Hybrid Key Loading: Works locally and securely on GitHub Actions
     try:
         from dotenv import load_dotenv
         load_dotenv()
@@ -26,9 +26,8 @@ def setup_genai():
     return genai.GenerativeModel('gemini-1.5-flash')
 
 def get_summary(model, title, link, fallback_text=""):
-    """Simplified summary logic using only Gemini (No NLTK required)"""
+    """Generates a supply-chain focused summary using only Gemini 1.5 Flash."""
     try:
-        # Prompt focused on Supply Chain implications
         prompt = (
             f"Write a concise 2-sentence summary focused strictly on the Digital Supply Chain "
             f"implications of this article.\n\n"
@@ -41,9 +40,9 @@ def get_summary(model, title, link, fallback_text=""):
         if ai_summary:
             return ai_summary
     except Exception as e:
-        print(f"Gemini Error: {e}")
+        print(f"Gemini Error for '{title[:30]}': {e}")
     
-    # Simple backup if AI fails
+    # Fallback if the AI fails or hits a hard paywall
     return f"Strategic Insight: This article covers {title}. Visit source for full technical details."
 
 def determine_category(title, summary):
@@ -69,8 +68,8 @@ def fetch_feed(query, existing_links, existing_titles, max_items):
         f"https://www.bing.com/news/search?q={encoded_query}&format=rss"
     ]
     
-    # 1-year archive boundary
-    time_threshold = datetime(2025, 3, 22)
+    # Rolling 2-year archive boundary (Subtracts 730 days from today)
+    time_threshold = datetime.now() - timedelta(days=730)
     items = []
     
     for rss_url in rss_urls:
@@ -83,12 +82,12 @@ def fetch_feed(query, existing_links, existing_titles, max_items):
             title = entry.title if hasattr(entry, 'title') else ''
             title_lower = title.lower().strip()
             
-            # Filters
+            # Title MUST contain 'supply chain' and pass duplicate checks
             if 'supply chain' not in title_lower or link in existing_links: continue
             if is_near_duplicate(title_lower, existing_titles, 0.85): continue
             
-            # Corporate Noise Filter
-            noise = ['stock market', 'dividend', 'hiring', 'earnings', 'marketing', 'flavor']
+            # Filter out corporate/stock noise
+            noise = ['stock market', 'dividend', 'hiring', 'earnings', 'marketing', 'flavor', 'stock price', 'share price']
             if any(w in title_lower for w in noise): continue
                 
             published_time = None
@@ -96,7 +95,7 @@ def fetch_feed(query, existing_links, existing_titles, max_items):
                 published_time = datetime.fromtimestamp(time.mktime(entry.published_parsed))
                 
             if published_time and published_time >= time_threshold:
-                # Image Logic
+                # Generate a safe placeholder image if none exists
                 safe_seed = urllib.parse.quote(title[:30].replace(' ', ''))
                 image_url = f"https://picsum.photos/seed/{safe_seed}/800/450"
                 
@@ -117,33 +116,51 @@ def main():
     
     sites = "site:logisticsmgt.com OR site:blueyonder.com OR site:supplychaindive.com OR site:scmr.com OR site:gep.com OR site:lineview.com"
     base_query = 'intitle:"Supply Chain" (FMCG OR Beverage OR Food OR "Coca Cola")'
-    exclusions = '-CEO -hiring -earnings -"stock price"'
+    exclusions = '-CEO -hiring -earnings -"stock price" -"share price" -dividend'
+    
+    # Active Search Strings mapped to your categories
+    future_tech = '("Agentic AI" OR "Data Fabric")'
+    logistics = '(WMS OR TMS OR Transportation OR Warehouse OR Logistics OR Fleet OR Delivery)'
+    smart_mfg = '("Smart Manufacturing" OR IOT OR Factory OR Automation OR "Digital Twin" OR Lineview OR OEE)'
+    procurement = '(Procurement OR Sourcing OR Supplier OR Purchasing OR Vendor OR GEP OR Coupa)'
+    planning = '(Planning OR "Blue Yonder" OR Forecast OR Demand OR "SAP IBP" OR IBP OR O9)'
+    data_analytics = '(Data OR Analytics OR AI OR "Artificial Intelligence" OR "Machine Learning" OR Lake)'
     
     queries = [
-        f'{base_query} (GEP OR Siemens OR Lineview OR BlueYonder) {exclusions} ({sites})',
-        f'("Sedef Salingan Sahin" OR "Henrique Braun") ("Coca-Cola" OR Digital) {exclusions}'
+        # 1. VIP Executive Search
+        f'("Sedef Salingan Sahin" OR "Henrique Braun") ("Coca-Cola" OR Digital) {exclusions}',
+        
+        # 2. Category-Specific Hunts
+        f'{base_query} {future_tech} {exclusions} ({sites})',
+        f'{base_query} {smart_mfg} {exclusions} ({sites})',
+        f'{base_query} {planning} {exclusions} ({sites})',
+        f'{base_query} {data_analytics} {exclusions} ({sites})',
+        f'{base_query} {procurement} {exclusions} ({sites})',
+        f'{base_query} {logistics} {exclusions} ({sites})'
     ]
     
     existing_links, existing_titles, all_items = set(), set(), []
     
     for q in queries:
-        if len(all_items) >= 40: break
-        found_items = fetch_feed(q, existing_links, existing_titles, max_items=40 - len(all_items))
+        if len(all_items) >= 80: break # Hard cap at 80 items
+        found_items = fetch_feed(q, existing_links, existing_titles, max_items=80 - len(all_items))
         all_items.extend(found_items)
         
     if not all_items:
         print("No news found today.")
         return
         
-    # Sort by priority (Executive names first) then date
+    # Sort by priority (Executive names first) then by date
     all_items.sort(key=lambda x: (
         1 if ('sahin' in x['title'].lower() or 'braun' in x['title'].lower()) else 0,
         x['raw_date']
     ), reverse=True)
 
     final_items = []
-    for i, item in enumerate(all_items[:15]): # Limiting to 15 for API speed
-        print(f"Processing ({i+1}/{len(all_items[:15])}): {item['title'][:40]}...")
+    process_limit = min(len(all_items), 80)
+    
+    for i, item in enumerate(all_items[:process_limit]):
+        print(f"Processing ({i+1}/{process_limit}): {item['title'][:40]}...")
         summary = get_summary(model, item['title'], item['link'], item['description'])
         category = determine_category(item['title'], summary)
         
@@ -156,7 +173,7 @@ def main():
             "description": summary,
             "link": item["link"]
         })
-        time.sleep(2) # Short delay for API limits
+        time.sleep(4.5) # Crucial: Pauses for 4.5 seconds to protect Gemini API limits
         
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(final_items, f, indent=2, ensure_ascii=False)
