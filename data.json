@@ -1,4 +1,93 @@
-[
+[[
+  {
+    "id": 1,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/CocaColaEP/800/450",
+    "category": "Planning",
+    "title": "Coca-Cola Europacific Partners Embraces AI and Automation to Transform Supply Chain",
+    "date": "15.03.2026",
+    "description": "CCEP is investing heavily in AI-driven Customer Demand & Supply Planning (CDSP) systems and digital twin technology to optimize warehouse capacity. The integration of automated guided vehicles and machine learning helps forecast sales demand and improve sustainable packaging efforts.",
+    "link": "https://www.cocacolaep.com/news-and-stories/embracing-technology-within-supply-chain-to-better-serve-our-customers/"
+  },
+  {
+    "id": 2,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/CocaColaIcecek/800/450",
+    "category": "Smart Manufacturing",
+    "title": "Coca-Cola İçecek Builds Digital Twin to Automate Supply Chain Network Design",
+    "date": "10.03.2026",
+    "description": "By partnering with Phoenix Analytics, Coca-Cola İçecek successfully created a digital twin of its supply chain across 12 countries. This SQL-based automation reduced scenario creation time from days to minutes, eliminating manual Excel dependency.",
+    "link": "https://www.anylogistix.com/case-studies/coca-cola-icecek-s-supply-chain-optimization-project/"
+  },
+  {
+    "id": 3,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/MaerskCoke/800/450",
+    "category": "Future-Tech",
+    "title": "How Coca-Cola and Maersk Are Optimising Global Supply Chains Using Agentic AI",
+    "date": "08.03.2026",
+    "description": "Coca-Cola Europacific Partners is leveraging machine learning for advanced Customer Demand & Supply Planning. This AI orchestration allows the beverage giant to run real-time predictive simulations, ensuring agility against global trade disruptions.",
+    "link": "https://supplychaindigital.com/news/maersk-coca-cola-optimising-the-supply-chain-using-ai"
+  },
+  {
+    "id": 4,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/CokeProcurement/800/450",
+    "category": "Procurement",
+    "title": "Coca-Cola Deploys AI-Powered Procurement and Real-Time Freight Visibility",
+    "date": "02.03.2026",
+    "description": "Coca-Cola has integrated AI through Keelvar to automate sourcing decisions and partnered with FourKites for real-time shipment GPS tracking. These digital upgrades have achieved >99% in-stock levels with leaner inventories.",
+    "link": "https://supplychainnuggets.com/how-coca-cola-is-using-tech-to-drive-supply-chain-efficiency/"
+  },
+  {
+    "id": 5,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/HeinekenIoT/800/450",
+    "category": "Future-Tech",
+    "title": "Heineken Launches 'CoBrain' GenAI and IoT Smart Brewery Ecosystem",
+    "date": "14.03.2026",
+    "description": "Heineken's Connected Brewery program now links 7,000 machines via IoT to optimize water and energy use. The newly introduced 'CoBrain' GenAI assistant allows shop-floor operators to instantly access supply chain knowledge and solve production issues.",
+    "link": "https://www.theheinekencompany.com/newsroom/connected-brewery--simplifying-and-automating-our-end-to-end-business/"
+  },
+  {
+    "id": 6,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/HeinekenPalantir/800/450",
+    "category": "Data Analytics",
+    "title": "Heineken Partners with Palantir for AI-Driven Supply Chain Control Tower",
+    "date": "11.03.2026",
+    "description": "By leveraging Palantir AIP, Heineken is building a digital twin ontology that connects factories, warehouses, and logistics. The AI control tower provides real-time route optimization, predictive maintenance, and autonomous disruption alerts.",
+    "link": "https://www.supplychaintoday.com/ai-driven-supply-chain-transformation-heineken-and-palantir/"
+  },
+  {
+    "id": 7,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/HeinekenPower/800/450",
+    "category": "Smart Manufacturing",
+    "title": "Heineken Uses Microsoft Power Platform to Streamline Global Brewery Operations",
+    "date": "05.03.2026",
+    "description": "Heineken has developed thousands of low-code applications and automated workflows using Microsoft Power Platform. This digital transformation supports safety on the brewery floor, product quality control, and data accuracy across 192 countries.",
+    "link": "https://www.microsoft.com/en/customers/story/25909-heineken-microsoft-copilot-studio"
+  },
+  {
+    "id": 8,
+    "pinned": true,
+    "image": "https://picsum.photos/seed/BlueYonderBev/800/450",
+    "category": "Logistics",
+    "title": "Beverage Logistics Leader BevChain Saves 1,000 Hours Annually with Blue Yonder",
+    "date": "01.03.2026",
+    "description": "BevChain streamlined its transportation network by deploying Blue Yonder's AI-powered supply chain management solutions. The integration eliminated duplicate charge codes and manual routing, boosting predictive analytics and service reliability.",
+    "link": "https://blueyonder.com/customers/bevchain"
+  },
+  {
+    "id": 1,
+    "image": "https://picsum.photos/seed/HowMaerskandCoca-ColaHarne/800/450",
+    "category": "Data Analytics",
+    "title": "How Maersk and Coca-Cola Harness AI in the Supply Chain - Food Digital",
+    "date": "02.10.2025",
+    "description": "Strategic Insight: This article covers How Maersk and Coca-Cola Harness AI in the Supply Chain - Food Digital. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVk0xRHIxTHJyZjZHa2pSRExaU1JvcXVHUXFZTXlzNjYySUFMc2dyaC1wWTJpQ2t2bHNHWjRaQlJTM0pzVFVVMjFRZFhiUHJMNGN2Nm9fTldvOTc3ZzF0X2tZSlB2MVg4QWtfUVoxSHdBMXUwcWVBZ3RBTjdDUml3NFlyMTdHcUJNOHc?oc=5"
+  },
   {
     "id": 1,
     "image": "https://picsum.photos/seed/HowMaerskandCoca-ColaHarne/800/450",
