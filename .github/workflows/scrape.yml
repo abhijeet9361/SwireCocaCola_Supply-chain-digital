@@ -1,0 +1,36 @@
+name: Daily Supply Chain Scrape
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # This runs it automatically at 2:00 AM UTC every day
+  workflow_dispatch: # This adds the "Run" button so you can start it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 newspaper3k lxml_html_clean google-generativeai
+
+      - name: Run Scraper
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }} # This pulls your secret key safely
+        run: python scraper.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data.json
+          git commit -m "Auto-update: Latest Supply Chain News" || exit 0
+          git push
