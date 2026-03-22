@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swire Coca Cola Supply chain Digital News</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'coke-red': '#F40009',
+                        'coke-navy': '#0c2c84',
+                        'coke-gray': '#333333'
+                    },
+                    fontFamily: {
+                        sans: ['Barlow', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'Barlow', sans-serif; background-color: #FAFAFA; }
+        .title-clamp { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .desc-clamp { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        
+        .img-wrapper { position: relative; overflow: hidden; }
+        .news-card img { transition: transform 0.5s ease; }
+        .news-card:hover img { transform: scale(1.05); }
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <!-- Top Red Ribbon -->
+    <div class="h-[6px] w-full bg-coke-red"></div>
+
+    <!-- Hero Header -->
+    <header class="w-full bg-white border-b border-gray-100 py-8 mb-8">
+        <div class="max-w-[95%] xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-center sm:justify-start gap-6 sm:gap-8">
+            <img src="coke_bottle.png" alt="Coca-Cola Contour Bottle" class="h-[75px] sm:h-[90px] object-contain drop-shadow-sm">
+            <div class="hidden sm:block h-[60px] border-l-2 border-gray-200"></div>
+            <div class="flex flex-col text-center sm:text-left">
+                <h1 class="text-[24px] sm:text-[32px] lg:text-[36px] text-coke-navy font-semibold tracking-wide uppercase">
+                    Supply Chain Digitalization News Aggregator
+                </h1>
+                <p class="text-[15px] sm:text-[17px] text-gray-500 font-medium tracking-normal normal-case mt-1.5 sm:mt-1">
+                    By Swire Coca-Cola Supply Chain Digital
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Search & Filter Section -->
+    <section class="w-full bg-white border-y border-gray-200 py-4 mb-8 sticky top-0 z-50 shadow-sm backdrop-blur-md bg-white/95">
+        <div class="max-w-[95%] xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-col xl:flex-row items-center justify-between gap-5">
+            
+            <!-- Search Bar (Left) -->
+            <div class="relative w-full xl:w-[300px] flex-shrink-0">
+                <input type="text" id="search-input" placeholder="Search news by keyword..." class="w-full pl-10 pr-4 py-2 border border-gray-200 rounded-lg text-[14px] focus:outline-none focus:border-coke-navy focus:ring-1 focus:ring-coke-navy text-coke-navy bg-gray-50 shadow-inner">
+                <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            </div>
+            
+            <!-- Category Dropdown (Center) -->
+            <div class="relative w-full xl:w-auto flex-shrink-0 flex items-center justify-center">
+                <select id="category-select" class="appearance-none bg-coke-red text-white border border-coke-red text-[13px] font-bold uppercase tracking-wider rounded-lg focus:outline-none focus:ring-2 focus:ring-red-400 block w-full xl:w-[240px] px-5 py-2.5 cursor-pointer shadow-md transition-colors hover:bg-red-700">
+                    <option value="All" class="bg-white text-coke-navy font-semibold">All News</option>
+                    <option value="Future-Tech" class="bg-white text-coke-navy font-semibold">Future-Tech</option>
+                    <option value="Planning" class="bg-white text-coke-navy font-semibold">Planning</option>
+                    <option value="Logistics" class="bg-white text-coke-navy font-semibold">Logistics</option>
+                    <option value="Smart Manufacturing" class="bg-white text-coke-navy font-semibold">Smart Mfg</option>
+                    <option value="Data Analytics" class="bg-white text-coke-navy font-semibold">Data Analytics</option>
+                    <option value="Procurement" class="bg-white text-coke-navy font-semibold">Procurement</option>
+                </select>
+                <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-4 text-white">
+                    <svg class="w-4 h-4 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </div>
+            </div>
+            
+            <!-- Digital Focus Rankings (Right) -->
+            <div class="hidden xl:flex flex-shrink-0 items-center gap-3 bg-gray-50 border border-gray-200 py-1.5 px-3 rounded-lg shadow-inner mt-4 xl:mt-0 w-full xl:w-auto overflow-x-auto">
+                <h3 class="text-[11px] text-coke-navy font-bold uppercase tracking-widest whitespace-nowrap flex items-center gap-1.5">
+                    <svg class="w-3.5 h-3.5 text-coke-red" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                    Focus:
+                </h3>
+                <div id="category-counts" class="flex items-center gap-1.5 flex-nowrap">
+                    <!-- Dynamic Badges -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Layout Container - Grid spanning full width for 4 columns! -->
+    <main class="max-w-[95%] xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 pb-32 flex-grow w-full">
+        <!-- News Grid Container -->
+        <div id="news-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-[24px] gap-y-[32px]">
+            <!-- Dynamic Content Injected Here -->
+            <div class="col-span-full text-center py-20 text-gray-400">
+                Loading latest news...
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="w-full bg-coke-navy text-white py-8 mt-auto pb-12 sm:pb-8 border-t-4 border-coke-red">
+        <div class="max-w-[95%] xl:max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-6">
+            <p class="text-[14px] sm:text-[16px] font-medium tracking-wider text-center sm:text-left text-gray-200">
+                @Abhijeet Prakash
+            </p>
+            <div class="flex items-center gap-2 bg-coke-red text-white px-4 py-1.5 rounded-full shadow-md transform hover:scale-105 transition-transform cursor-default">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                <span class="text-[12px] font-bold tracking-wider uppercase">Built with AI</span>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        let allNewsData = [];
+
+        function renderCategoryCounts(items) {
+            const countContainer = document.getElementById('category-counts');
+            if (!countContainer) return;
+            
+            const counts = {};
+            items.forEach(item => {
+                const cat = item.category || 'Logistics';
+                counts[cat] = (counts[cat] || 0) + 1;
+            });
+            
+            const sortedCategories = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+            
+            if (sortedCategories.length === 0) {
+                countContainer.innerHTML = '<div class="text-[10px] text-gray-400">None</div>';
+                return;
+            }
+            
+            // Generate tiny badges to fit globally in the strict right header constraint
+            countContainer.innerHTML = sortedCategories.map(([cat, count], index) => {
+                const isTop = index === 0;
+                return `
+                <div class="${isTop ? 'bg-coke-red text-white' : 'bg-white text-coke-navy border border-gray-200'} flex items-center gap-1.5 px-2 py-0.5 rounded shadow-sm text-[9.5px] font-bold uppercase tracking-wider transition-transform hover:scale-105 cursor-default whitespace-nowrap">
+                    <span>${cat}</span>
+                    <span class="${isTop ? 'bg-white text-coke-red' : 'bg-gray-100'} px-1 rounded-sm">${count}</span>
+                </div>
+                `;
+            }).join('');
+        }
+
+        function renderCards(items) {
+            const grid = document.getElementById('news-grid');
+            grid.innerHTML = '';
+
+            if (items.length === 0) {
+                grid.innerHTML = '<div class="col-span-full text-center py-20 text-gray-400">No news articles found for this category.</div>';
+                return;
+            }
+
+            items.forEach(item => {
+                const wordCount = (item.title + " " + item.description).split(' ').length;
+                const minRead = Math.max(1, Math.ceil(wordCount / 150)); 
+                
+                const [d, m, y] = item.date.split('.');
+                const diffDays = (new Date() - new Date(y, m - 1, d)) / 86400000;
+                const newBadge = diffDays < 7 ? '<span class="absolute top-3 right-3 bg-coke-red text-white text-[10px] font-bold tracking-widest px-2.5 py-1 rounded shadow-md z-10">NEW</span>' : '';
+                
+                const card = document.createElement('article');
+                card.className = 'news-card group flex flex-col cursor-pointer bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 border border-gray-100 relative';
+                
+                card.innerHTML = `
+                    <!-- Media Segment (Strict 150px height limit) -->
+                    <div class="img-wrapper mb-0 border-b border-gray-100 bg-gray-50">
+                        ${newBadge}
+                        <img src="${item.image}" alt="${item.title}" loading="lazy" class="w-full h-[150px] object-cover opacity-95 group-hover:opacity-100 transition-opacity">
+                    </div>
+                    
+                    <!-- Content Segment -->
+                    <div class="flex flex-col flex-grow p-5 pt-4">
+                        <!-- Category Pill -->
+                        <div class="mb-2.5">
+                            <span class="inline-block bg-gray-100 text-gray-600 text-[9px] font-bold tracking-widest uppercase px-2 py-1 rounded-sm">${item.category || 'Logistics'}</span>
+                        </div>
+                        
+                        <h2 class="text-[16px] leading-[1.3] font-bold text-coke-navy mb-2 title-clamp group-hover:text-coke-red transition-colors duration-300">
+                            ${item.title}
+                        </h2>
+                        
+                        <p class="text-[13px] leading-[1.6] flex-grow text-gray-600 desc-clamp">
+                            ${item.description}
+                        </p>
+                        
+                        <!-- Footer -->
+                        <div class="mt-4 pt-3 border-t border-gray-50 flex items-center justify-between text-[11px] text-gray-400 font-semibold uppercase tracking-wider">
+                            <div class="flex items-center gap-1">
+                                <span class="text-coke-red">${item.date}</span>
+                            </div>
+                            <div class="flex items-center gap-1 transition-colors group-hover:text-coke-red">
+                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                                <span>${minRead} min read</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                
+                grid.appendChild(card);
+            });
+        }
+
+        function filterNews() {
+            let filtered = allNewsData;
+            
+            const category = document.getElementById('category-select').value;
+            const searchInput = document.getElementById('search-input').value.toLowerCase();
+            
+            if (searchInput) {
+                filtered = filtered.filter(item => 
+                    item.title.toLowerCase().includes(searchInput) || 
+                    item.description.toLowerCase().includes(searchInput)
+                );
+            }
+
+            if (category !== 'All') {
+                filtered = filtered.filter(item => item.category === category);
+            }
+
+            renderCards(filtered);
+            renderCategoryCounts(filtered); // Dynamically re-ranks pill structure based on active filter
+        }
+
+        // Initialize App
+        document.addEventListener('DOMContentLoaded', async () => {
+            
+            // Setup Listeners
+            document.getElementById('category-select').addEventListener('change', filterNews);
+            document.getElementById('search-input').addEventListener('input', filterNews);
+
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) throw new Error('Data file missing or invalid');
+                
+                allNewsData = await response.json();
+                renderCards(allNewsData);
+                renderCategoryCounts(allNewsData);
+                
+            } catch (error) {
+                console.error(error);
+                document.getElementById('news-grid').innerHTML = 
+                    '<div class="col-span-full text-center py-20 text-red-500 font-medium">Failed to load news feed. Ensure scraper.py has securely run natively and populated data.json.</div>';
+            }
+        });
+    </script>
+</body>
+</html>
