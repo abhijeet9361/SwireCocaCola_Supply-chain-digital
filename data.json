@@ -20,10 +20,10 @@
   {
     "id": 3,
     "image": "https://picsum.photos/seed/UiPath%E2%80%99sNewAgenticSolutions/800/450",
-    "category": "Logistics",
-    "title": "UiPath’s New Agentic Solutions to Optimize Retail and Manufacturing Operations - sdcexec.com",
+    "category": "Planning",
+    "title": "UiPath’s New Agentic Solutions to Optimize Retail and Manufacturing Operations - Supply & Demand Chain Executive",
     "date": "27.03.2026",
-    "description": "Strategic Insight: This article covers UiPath’s New Agentic Solutions to Optimize Retail and Manufacturing Operations - sdcexec.com. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers UiPath’s New Agentic Solutions to Optimize Retail and Manufacturing Operations - Supply & Demand Chain Executive. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3ZKM3RYMW5fd2hacDllOGdVYlRlbU5ROERNMTZoU2ZoZzUwOV9zWXBkUUFKcVpmSldCbTlVQUVLUTVTbDR0Y3E1ZnRsNXhHbFBmaXlDeDJQTUZjcFpJMzRBTHptZXJndnNxUF9reUdLSGpMMWdWLXlSZGZRT2xGV3NXSEhuRm1IcEdpeXc0TU1kakt0U1NnTTJ2NDZkTFFZRHdzYkRlM3ZzV0lmWmNIclFjODlCMUptRnh0TGRtVXhtNlF2SnRJeHpOLTB1OTN5TExsNndWMW5qaGd5Rm15WlNB?oc=5"
   },
   {
@@ -37,15 +37,6 @@
   },
   {
     "id": 5,
-    "image": "https://picsum.photos/seed/AgenticProcurementPlatforms/800/450",
-    "category": "Procurement",
-    "title": "Agentic Procurement Platforms - Trend Hunter",
-    "date": "13.03.2026",
-    "description": "Strategic Insight: This article covers Agentic Procurement Platforms - Trend Hunter. Visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BLVNoTWJlQVQyVERDQXVqOTNqdmZtbmdYbTVwbzV5M3Z3Z1BDZFY1OUp6ZHJCLWhEVnlQMUdieHppZGNOQzlURVJZTUNRVGPSAVRBVV95cUxORjllYXFiZmRETXpwN25jTDBId3ZrRVd5RkVPaVpKam42dmZ4NXR0ZjdmaS1oZkQyUHI5djhZS25rTjB1N2FuTlA3MTBjbmxtMEdsamk?oc=5"
-  },
-  {
-    "id": 6,
     "image": "https://picsum.photos/seed/Mohamad%3AKPKMfocusesonsuppl/800/450",
     "category": "Logistics",
     "title": "Mohamad: KPKM focuses on supply chain reform, smart farming to strengthen food security - The Malaysian Reserve",
@@ -54,7 +45,7 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzhvQWNOS1ZJdUVGTk5zcFIyR3NkMTY3cEx5SnR0UWpnTEhvYWtKbGFEMkFDTGxJUW5oQldMM1kxU3pBdm56N3ZhTngySnY1S0VxbVYwMWtUMWpoZl9GQ0hUZEplZ2ZmdGtwWHpTdmtHaFZIa3hsS3k0a1p2aDdEbE9iek1HWVpidTJ1aFlxTTQ4amZodEJQNmNRSTI1UnZBU1RfQ1dxOVQwR29iemZROHZrWUJlUHR1NVI4eEhuXzA1TjBhR1YwaA?oc=5"
   },
   {
-    "id": 7,
+    "id": 6,
     "image": "https://picsum.photos/seed/IndiaPoisedtoBecomeaGloba/800/450",
     "category": "Logistics",
     "title": "India Poised to Become a Global Manufacturing Hub for Smart Protein Processing Equipment, Finds Landmark GFI India and NIFTEM-T Study - ANI News",
@@ -63,13 +54,22 @@
     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPc1NEUWRySFE4bDFTTzhuSkhVSENYanpoOXNyRGZQRDNjWGR2NG9JTGxWajMzMUNjbnRTRG5lMENZLV9UY3hWTFYtVGlLb2UzX29rOFNqRlppUDR1LThWblZVcnBMRElXY0lEQlVjd3RlS0pwWkVTWlJzS0hzWmNoc09pOGZGLUo0RXNwZ1JRWXB4ZElENTZ1bnNLejFHODZZeWF4REVoeDNBS0J4RFRSSm1RQ1FZZ2U2Zm5TQVI3dVJzMnhNVDFkQ29XeEhoanZlX1gzY21HVE9Lby1fRUtJcm9hQU9qR1lIR0dXLUwxaEpHc0c5NDR2Z0tvOGlLbGMtcUY5TXNsWk1jNS1ubnBBM9IBmAJBVV95cUxQRExVMWdmVUFBZ1lKMjNNVXBHUFVnM1FkV19DOG1vOXZsZzZwRjdXcURkaHR5MUVHaXY5dDlDekR3X05kUVAyX0d6QXloSnljajVGejFmMmpSUkVBdUtXR1ZoN0FuUDYxV25hU0REcDRyMlpPYjBNeFpPWTM3UGV6MkdBbDZtRFQ0a2ZwODlJYjN4U0kyZUpDZU5sRU9wcXd0QzVXNFJXd3JKS1FxUy1NVTZsYndvczJhWjc4MGRFalprNE52RzFleE5ndUV5TUo2ZEZSd0FDQUFNREpzQnVKQzI4Z2FkSDZIYm1NbmhzcmNydUdXYW52M09WSDd2V1BJZFd4VjlHc2V1RUU4NV9CbENZTXNtTmwt?oc=5"
   },
   {
-    "id": 8,
+    "id": 7,
     "image": "https://picsum.photos/seed/Retail%E2%80%99sNextWorkforceShift%3A/800/450",
     "category": "Procurement",
-    "title": "Retail’s Next Workforce Shift: How AI Agents are Reshaping Procurement, Risk and Cost Control - retailtouchpoints.com",
+    "title": "Retail’s Next Workforce Shift: How AI Agents are Reshaping Procurement, Risk and Cost Control - Retail TouchPoints",
     "date": "04.03.2026",
-    "description": "Strategic Insight: This article covers Retail’s Next Workforce Shift: How AI Agents are Reshaping Procurement, Risk and Cost Control - retailtouchpoints.com. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Retail’s Next Workforce Shift: How AI Agents are Reshaping Procurement, Risk and Cost Control - Retail TouchPoints. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOXpjSGxGSzdDY0oyTjh5aGZoMVNfSlhsckZxc2xIMWFTWHdZWWhpcHBNMWZoYy15dGs3clRSR2FxMEdJZTAwYnpPeTlyWTIycnh1T0JmUE5idTNzdHExYUlLRHp1LTNETkdLQzhIQ0dQaWxZVnhKVXRvZGdpT1F3bWVGVjI3a1VfSERLZmNSLTEtRDJORVR2c3FmMjhXWEM3NTBaN3RzZVUxZVBLQ2hCd2x5SnVEemF2elpKUi1xb0FMWFBtMWxNVmdQeVdTR0pVZEdzZ2duT3I1VmNOYjJZcEljdWxUM2F4?oc=5"
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/seed/StartSmall%2CScaleSmart%3AReth/800/450",
+    "category": "Smart Manufacturing",
+    "title": "Start Small, Scale Smart: Rethinking Automation in Food Manufacturing - The Food Institute",
+    "date": "26.02.2026",
+    "description": "Strategic Insight: This article covers Start Small, Scale Smart: Rethinking Automation in Food Manufacturing - The Food Institute. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3JzREpoN0syT1JkNkpQOGhvRF9lX3RNSXlLcWoxN1FkUXZlRmlsNk5LVFNsc1M0RUNNZ3VLV1BSQ09zY3VQa0x5cFhKcE1xQWp6NlMxYlR0OFhKV1AtbHhiUVMzeTN6ckQ4S09kbDRzSVdnSkJDR1VOaFM2TmUyZ184VlBPVzBhNlBhN2o0c2xNWWpFNWp1RXdDOW1TT2FybHc?oc=5"
   },
   {
     "id": 9,
@@ -111,9 +111,9 @@
     "id": 13,
     "image": "https://picsum.photos/seed/E-commerceoutsourcingPhilipp/800/450",
     "category": "Procurement",
-    "title": "E-commerce outsourcing Philippines: orchestrating the 2026 global supply chain - Retail Technology Innovation Hub",
+    "title": "E-commerce outsourcing Philippines: orchestrating the 2026 global supply chain - retailtechinnovationhub.com",
     "date": "30.01.2026",
-    "description": "Strategic Insight: This article covers E-commerce outsourcing Philippines: orchestrating the 2026 global supply chain - Retail Technology Innovation Hub. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers E-commerce outsourcing Philippines: orchestrating the 2026 global supply chain - retailtechinnovationhub.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1hvZ19fNzNvS0lqX202ZFR1RzRLMFh3SmFGUFItc1BBUlo5MC1uRllPVlZxMEsyRm9mNXZUMlBaN2dPanZpSnVKQ2JxS3Z3NXNScWY3WjU2d0kyb0FyajVrUmZIQkZZTjZITHU5TVNHZHFlSFJlTmNHTVNUNFJjQ1k3ZUxMNkl1VlBDWGZUT0FOOWFtYnlfV2NRcE1tRlBodFF3Yjk1SDhBRzRmUzRQWU02eHRDRFdDdUNaLVREelJidUVObFU4?oc=5"
   },
   {
@@ -129,18 +129,18 @@
     "id": 15,
     "image": "https://picsum.photos/seed/WinterStormSupplyChain%3AHow/800/450",
     "category": "Data Analytics",
-    "title": "Winter Storm Supply Chain: How AI Powers Walmart's Smart Rerouting - techtimes.com",
+    "title": "Winter Storm Supply Chain: How AI Powers Walmart's Smart Rerouting - Tech Times",
     "date": "26.01.2026",
-    "description": "Strategic Insight: This article covers Winter Storm Supply Chain: How AI Powers Walmart's Smart Rerouting - techtimes.com. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Winter Storm Supply Chain: How AI Powers Walmart's Smart Rerouting - Tech Times. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGloSlBZOFU2TXVQeDFia2pTODZ6ZEVLaXZUTzNHeDREWmVldHlhemF1YW1LeDMzWUZrczZyRmVtcG1DSl9iOGl3cDZjTWtWQUNnai1TWnNQLUJZQ3FZRXQ4VWh6M3VvT3VTbWZ1XzFqdC1xWU9MVkJoUjliVmduZjhLY2tVcXZyMFNnVTY2R3JHN0tSbG5XNk5kNFdRTXZCRW1yX3pWM200VHRYSEUwemhDQTkzQ1luakRB?oc=5"
   },
   {
     "id": 16,
     "image": "https://picsum.photos/seed/FinancialContent-ExpertInsi/800/450",
     "category": "Smart Manufacturing",
-    "title": "FinancialContent - Expert Insight: BAOIMA Members Explore Anno Robot’s Smart Manufacturing Prowess, Unlocking New Futures in AI Retail - FinancialContent",
+    "title": "FinancialContent - Expert Insight: BAOIMA Members Explore Anno Robot’s Smart Manufacturing Prowess, Unlocking New Futures in AI Retail - markets.financialcontent.com",
     "date": "23.01.2026",
-    "description": "Strategic Insight: This article covers FinancialContent - Expert Insight: BAOIMA Members Explore Anno Robot’s Smart Manufacturing Prowess, Unlocking New Futures in AI Retail - FinancialContent. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers FinancialContent - Expert Insight: BAOIMA Members Explore Anno Robot’s Smart Manufacturing Prowess, Unlocking New Futures in AI Retail - markets.financialcontent.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTi1OTlZaWFNQbU5HX1dpUzVOajdLREp0aDhNUTdTWHN2aTF1am5nMS02Q2QycUZnRll2dTkzQVBoNUtaWkg4bGp0LW1qMWFXMzUyOHl6N2pDdUN4cExVXzhNeWRMbE12WmdKbFlSbFc5bGJwMWVKQnhwQVpES3BVNkJDT1hqR0RkUzZLMDZkQUpMZmFNQ0dFNFFtVHNkUHRia1EtTFdNRXY1UGhzT19FaXhOWEp0VmcyclZJMk1uYnpIY3F5SmlBUnRHTUJTLU1EbTNhZmhxZjZZX1pfNnpoTjl0QzZLQnlwUkRoTjhyNGY5UHpEZjhWVnlUd3lReGUwRlZOZU1YSjVKamI5UmUwM3NuOA?oc=5"
   },
   {
@@ -154,21 +154,21 @@
   },
   {
     "id": 18,
-    "image": "https://picsum.photos/seed/DCGpacinauguratessmartmanuf/800/450",
-    "category": "Smart Manufacturing",
-    "title": "DCGpac inaugurates smart manufacturing plant in Noida for sustainable packaging - FFOODS Spectrum",
-    "date": "20.01.2026",
-    "description": "Strategic Insight: This article covers DCGpac inaugurates smart manufacturing plant in Noida for sustainable packaging - FFOODS Spectrum. Visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWE4M1RmbVZtb21EcTIzeEJyejVKQzJIZ1dCOWg3MU5wa3ZxOXRqLW5lNmRGMGxhU1U3LWUtaFBxa2w5QVViYlpXV05WR24tbDhNNkQ0a2NTNmdsTm5tLWg4d1dNdkRsRG53LWYxa04tZGhyaWpaeXVmS3dIQzlQdUE1V2I5cEJab1F0WDdjR0k0R3hUM2VJcWJoSUJmUkU3WlRWeE9iYk9ObGxnY1pHVzk4SEdvX1JEOC02UURDdXg?oc=5"
-  },
-  {
-    "id": 19,
     "image": "https://picsum.photos/seed/DCGpacopenssmartmanufacturi/800/450",
     "category": "Smart Manufacturing",
     "title": "DCGpac opens smart manufacturing plant in Noida for sustainable packaging - ET Manufacturing",
     "date": "19.01.2026",
     "description": "Strategic Insight: This article covers DCGpac opens smart manufacturing plant in Noida for sustainable packaging - ET Manufacturing. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOFNNUDN3M3g5eWJMa1EydjRNQll5NklGVkxFdzNpalBwQl90WFBTNVU3bFljNkJTNDhZQ1BWLW83QlJweWV2MURZYUZIaEFEbVZvV1ZxSVNjdm4tWXRtdzVITUJRSkkzRHRtMk53NndmX0pmbS1mUUlKTFZFMGtlMUk5cjNPSnBHdzM2eTR1bHVYSUFmbDFocVFXa2Q5QlhfbjNqczFfMjAxRkN2RkVBejhEYl9wOFdQRDRSemFrQk40cjVPOWJZeld1aXA5OUFvc0ZrX1NKN3lTV1dWRU9hYzB30gHnAUFVX3lxTE5tdExMTVVhUFFEQW5kWHlKTVJ5TVJ4Ukctbnc4MWVoZkFkcF9LZWdyN0ZhQWdxeUdCLXQ5cDFaNldNYWxFRkdOd3pHM0J5WGN6cWtCT3dCaDNlcUhXRjdhUHRWUE1BSU5Vc1ZQeDJQSUVHMDJnZ0x6QXJfMVVmVUl0cGtXbnhlQzRUMmgyM0hPajNzY05aOGt2RGlfTm5oWEhfa3o1ZWxJdFlTbEthd1V3YmQ0XzhVcFUzVFNGWlVja2pna0YwR3ZsYUxHTkNnVjZNdHJFVTQyTzlVUHhLRTR6eEJVOHdRWQ?oc=5"
+  },
+  {
+    "id": 19,
+    "image": "https://picsum.photos/seed/DCGpacinauguratessmartmanuf/800/450",
+    "category": "Smart Manufacturing",
+    "title": "DCGpac inaugurates smart manufacturing plant in Noida - FoodTechBiz",
+    "date": "19.01.2026",
+    "description": "Strategic Insight: This article covers DCGpac inaugurates smart manufacturing plant in Noida - FoodTechBiz. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjAwR1JWX0lNMXNUVUtGTDNVdmo5MF9pNWF5SjI3RlZLelU5bzlFalp5VVdnUklxN3pPa3A4S0o2Q0c2RGVEU09oaHc1S3k0dFVIV1hGTURyZldGV1Rxc1dMSE52dENWZjNPZERrZWpnY3hLc0lGdGJBa2NBNmNzUElsdC0zN0s5VGR6UVkwbXZrZGxhOENzMmNVNEV4RGfSAawBQVVfeXFMTjVyZTd2M042XzNYSWxyNmRsOVpDYlYzd2J2VDhGZ09OSmNyOS1TaXg0Zk9uQXJrR1JJc0dUZ19MR2MyOTZyTEJnVnNNNVV6bmc4UXFQSzZmUFhIZlJNNzRINzZBSk5OLURDRkRWSlNyYXczd1o2U2NkY2hOVEl4aG1wVmhlN0Y4QzBoQ05vc1dIOWJ1dUdTTU9ucWtfd19vVHZvVGNwYUViUTlxZA?oc=5"
   },
   {
     "id": 20,
@@ -219,9 +219,9 @@
     "id": 25,
     "image": "https://picsum.photos/seed/ZycusHorizon2025%3AWhyAgenti/800/450",
     "category": "Future-Tech",
-    "title": "Zycus Horizon 2025: Why Agentic AI is Future of Procurement - Procurement Magazine",
+    "title": "Zycus Horizon 2025: Why Agentic AI is Future of Procurement - procurementmag.com",
     "date": "06.11.2025",
-    "description": "Strategic Insight: This article covers Zycus Horizon 2025: Why Agentic AI is Future of Procurement - Procurement Magazine. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Zycus Horizon 2025: Why Agentic AI is Future of Procurement - procurementmag.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkd0dkJmZUhhYU5EQUpNRWlqTW5faGNoQ1BPS3kwQkoxWVFXSW1zX3BpVkFfQ3hZLTJkZVNTMHhoZVJwR1I5WXN6MXBGYnJFcFpqNXhWYWNSRUUxMkdOaHFwU05Jdm5PUzVqbjRFUGFHWU1NdnpFMDFEQ1pkSUEzeFMyNA?oc=5"
   },
   {
@@ -237,9 +237,9 @@
     "id": 27,
     "image": "https://picsum.photos/seed/REWEWest%26Circus%3ATheFuture/800/450",
     "category": "Procurement",
-    "title": "REWE West & Circus: The Future of Retail Food Tech? - Procurement Magazine",
+    "title": "REWE West & Circus: The Future of Retail Food Tech? - procurementmag.com",
     "date": "05.11.2025",
-    "description": "Strategic Insight: This article covers REWE West & Circus: The Future of Retail Food Tech? - Procurement Magazine. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers REWE West & Circus: The Future of Retail Food Tech? - procurementmag.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYm96SzN5QU1oeWhqNXN6M0Q1WHJNZ2l6dURvUko5bnZ2SDFPMGJVb3IwUG1nMVplQmpDVjAwWnhWNmdVQTUxbFJ5Z0t1ZW84RzhCTW1XVGRGcDZHN0sxQkkybXNnNm1uVElqVEg3d1BQbkdjeEFVenVqMzNGLXVPSldEUlg?oc=5"
   },
   {
@@ -273,9 +273,9 @@
     "id": 31,
     "image": "https://picsum.photos/seed/Creatingtheliveenterprise%3A/800/450",
     "category": "Future-Tech",
-    "title": "Creating the live enterprise: The agentic AI imperative in manufacturing and retail - Infosys",
+    "title": "Creating the live enterprise: The agentic AI imperative in manufacturing and retail - infosys.com",
     "date": "16.10.2025",
-    "description": "Strategic Insight: This article covers Creating the live enterprise: The agentic AI imperative in manufacturing and retail - Infosys. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Creating the live enterprise: The agentic AI imperative in manufacturing and retail - infosys.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53VnZYblB5dHNCb25Ldk4xZkVUeHA2MVZWd0JjOXlCdkh6ZUVWRl8tVV9hUXJvTVFEUUVxLTJkUVQ3OWg5OTlZUFgzMzlna2NYS2V2OHkzdl9wZGNFdTdLeXFOa1YyX196clVWb2ZmU0NlWlpSdHROdWl3?oc=5"
   },
   {
@@ -298,15 +298,6 @@
   },
   {
     "id": 34,
-    "image": "https://picsum.photos/seed/TransformSupplyChainLogisti/800/450",
-    "category": "Future-Tech",
-    "title": "Transform Supply Chain Logistics with Agentic AI - Amazon Web Services",
-    "date": "10.10.2025",
-    "description": "Strategic Insight: This article covers Transform Supply Chain Logistics with Agentic AI - Amazon Web Services. Visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcU9JNV9UTUVIbWgzZlphVmhESDdiUnptMU94SnlBLVQzbFBnYVhRaVNYSVBzUzRvNUhQaW1OTmNFeEZaY1U2RmhfRzlsRUhrU3RkeldzSF9aOGJocXFjdGwtQkRJNUp4d0VBdmFDMlR1Qng2SmwwVDJMTEpUbVpCd1lzekUxLWU5d3BTd3dNZ3FNOE0?oc=5"
-  },
-  {
-    "id": 35,
     "image": "https://picsum.photos/seed/AmazonAccelerate2025Seller/800/450",
     "category": "Future-Tech",
     "title": "Amazon Accelerate 2025 Seller Event Takeaways: Agentic AI, Supply Chain & MCF, Retail Ads - Forrester",
@@ -315,21 +306,30 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMm1TREVmR1JjU0l0RTlQWEdseVlCQWFfTUFIVVRGUURINVhTMl9DdU9BaEU3b2VIM2FPRG1vblQ5bk9PUXlHUG9LT0lCN0x4V25tc3lfeW05TXIzTjlfR1Y5dzk5SUg1SERXOEI2S19QcG9LN0Zuc1JobUFQOW9HOEtjdU10cVg1MmNOVmtiSFliNG9QSm50aVVfM1FpbzZSVkNzVG9RakpzMWtnVnFEQzgxMlZiUTJU?oc=5"
   },
   {
+    "id": 35,
+    "image": "https://picsum.photos/seed/TransformSupplyChainLogisti/800/450",
+    "category": "Future-Tech",
+    "title": "Transform Supply Chain Logistics with Agentic AI - Amazon Web Services",
+    "date": "10.10.2025",
+    "description": "Strategic Insight: This article covers Transform Supply Chain Logistics with Agentic AI - Amazon Web Services. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcU9JNV9UTUVIbWgzZlphVmhESDdiUnptMU94SnlBLVQzbFBnYVhRaVNYSVBzUzRvNUhQaW1OTmNFeEZaY1U2RmhfRzlsRUhrU3RkeldzSF9aOGJocXFjdGwtQkRJNUp4d0VBdmFDMlR1Qng2SmwwVDJMTEpUbVpCd1lzekUxLWU5d3BTd3dNZ3FNOE0?oc=5"
+  },
+  {
     "id": 36,
     "image": "https://picsum.photos/seed/BeyondtheShelf%3AUnpackingth/800/450",
     "category": "Logistics",
-    "title": "Beyond the Shelf: Unpacking the Future of Retail Logistics - Inbound Logistics",
+    "title": "Beyond the Shelf: Unpacking the Future of Retail Logistics - inboundlogistics.com",
     "date": "08.10.2025",
-    "description": "Strategic Insight: This article covers Beyond the Shelf: Unpacking the Future of Retail Logistics - Inbound Logistics. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Beyond the Shelf: Unpacking the Future of Retail Logistics - inboundlogistics.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkZTTy1jbnZJczdDUFVZUGZmazNoS2V3d0dNVkZDdEZfOGNtZUp0RlBFQ1I2VWllNVkwLWdOT2Zac3I1ZDFOcER0NFFmSnlhS282bW9MLVRqNEJ0TEJ4VWN4WDBuVmVLX2pQNnJOSEs2OEIxOHBkcWt5eUFLMVlJNTM1cWFRdGpVNEVNZ3ZVM3doVnJGQk1PdjU0ZGdvMEZOU0E?oc=5"
   },
   {
     "id": 37,
     "image": "https://picsum.photos/seed/4waysWalmartisscalingAIt/800/450",
     "category": "Data Analytics",
-    "title": "4 ways Walmart is scaling AI to unify its supply chain - supplychaindive.com",
+    "title": "4 ways Walmart is scaling AI to unify its supply chain - Supply Chain Dive",
     "date": "07.10.2025",
-    "description": "Strategic Insight: This article covers 4 ways Walmart is scaling AI to unify its supply chain - supplychaindive.com. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers 4 ways Walmart is scaling AI to unify its supply chain - Supply Chain Dive. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGo3OG1STEVTbkVDcnA2TUhTUUpIU05EOW0wdE80Z044aTZOWHB0Ui1QMVl1Wm5RUnFVVXFzZFpXQzQ4NkJIVWxSY3pNdS1Hb2l0UXNHSHFtNzRYY1Z6XzRXVzJzVndfbVFTUUFWVkFEQkNnNmduUVY0TXlIYXgwTQ?oc=5"
   },
   {
@@ -390,37 +390,37 @@
     "id": 44,
     "image": "https://picsum.photos/seed/InfosysConsumer%2CRetail%2Cand/800/450",
     "category": "Logistics",
-    "title": "Infosys Consumer, Retail, and Logistics Journal: Shaping Tomorrow with AI - Infosys",
+    "title": "Infosys Consumer, Retail, and Logistics Journal: Shaping Tomorrow with AI - infosys.com",
     "date": "15.09.2025",
-    "description": "Strategic Insight: This article covers Infosys Consumer, Retail, and Logistics Journal: Shaping Tomorrow with AI - Infosys. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Infosys Consumer, Retail, and Logistics Journal: Shaping Tomorrow with AI - infosys.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFX3FZblNzMEkyZlhjd3FpRlNHMnotb2xpUUZSWlVnTzN1UExvTEpnVEZlbWV2d3plMEFEVjJYZ3FTblk2MXl4WDN4cFIzb1VNVWNQVVUwRHF2TnZTdERCTG9qZw?oc=5"
   },
   {
     "id": 45,
-    "image": "https://picsum.photos/seed/Theriseofsmartwarehouses%3A/800/450",
-    "category": "Logistics",
-    "title": "The rise of smart warehouses: How automation and AI are transforming logistics - Payload Asia",
-    "date": "05.09.2025",
-    "description": "Strategic Insight: This article covers The rise of smart warehouses: How automation and AI are transforming logistics - Payload Asia. Visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFVKSTVwYUFmblM5ZFZKTVBKWEsxdHkxQVB4WFRfNlJQUmlyaGNRR2gwX29CLTNSYm9LYTFqWnI5U0tVMjMxY1NKZkdTYkFtZmdoVVNSQmtNaF9fTlhfOW02Ukx6VlBRVTFjUDVFZC1DQzlHQ19QdmwtQlRNaXRpbkJ1SzRXelNQU0w2NlJqRjFzek80?oc=5"
-  },
-  {
-    "id": 46,
     "image": "https://picsum.photos/seed/AvalueIntroducesARC-39Serie/800/450",
     "category": "Logistics",
-    "title": "Avalue Introduces ARC-39 Series Rugged Panel PCs for Smart Manufacturing, Retail, and Logistics - Embedded Computing Design",
+    "title": "Avalue Introduces ARC-39 Series Rugged Panel PCs for Smart Manufacturing, Retail, and Logistics - embeddedcomputing.com",
     "date": "02.09.2025",
-    "description": "Strategic Insight: This article covers Avalue Introduces ARC-39 Series Rugged Panel PCs for Smart Manufacturing, Retail, and Logistics - Embedded Computing Design. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers Avalue Introduces ARC-39 Series Rugged Panel PCs for Smart Manufacturing, Retail, and Logistics - embeddedcomputing.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONTExeUdxVW5MLS1VVmh5N1F4OHc2X09LUHpVd1dSZk9rV28ybThtUkZLVjFuWDdNNjlLQXVRX1FjdTZWdnIwNmtTRzJVekJndWFEOUZuV1JNUHFVZ3dONDF6Zmo5WXZfRUxjZWVBaVY2a2w5Xy1VYlFYNHQ1WnFjd0tWNGFiVzg5QWhwazdXT3M5eE1DZ0d0ZWhoUmR1T0hJanFfTVdraE1lVFFGUm0wR1d0ZXNSalYzYmN6bDI2dE5IdVNtMXJwUnBCeVdlU2xuaXRjZEROd3NBODVCS3A5VmlOTFpyMEVaSlhLaG5vQ3hESjdLeWpfXzlfMA?oc=5"
   },
   {
-    "id": 47,
+    "id": 46,
     "image": "https://picsum.photos/seed/RELEXDemonstratesAI-driven%2C/800/450",
     "category": "Planning",
     "title": "RELEX Demonstrates AI-driven, Unified Retail and Supply Chain Planning at NRF Europe 2025 - RELEX Solutions",
     "date": "02.09.2025",
     "description": "Strategic Insight: This article covers RELEX Demonstrates AI-driven, Unified Retail and Supply Chain Planning at NRF Europe 2025 - RELEX Solutions. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTF8xQllnSEhVRE1FM0VJdWluWV9nNnFQZHhzTnpOa3VTMkRPS3BtbzBPbFdpaVNUNW9lQ3RzR1BMUzRrRlZnU1AzM20ycmRWU0NqNXB3eU80Wkt5b3dRYXh2NEdxdzNmUWZKRHpNbXBaZTFwaFZmY1RLcUV2NmdibHhHcHp0cldNa3RNU2xVbWloeHdrdElYaG1JRng4R0ppTHE1XzZsMmxGejhWaFV6a050ODk5UDZ0OE04SHpkSVdPdTA?oc=5"
+  },
+  {
+    "id": 47,
+    "image": "https://picsum.photos/seed/MarsBacksClimate-SmartRice/800/450",
+    "category": "Logistics",
+    "title": "Mars Backs Climate-Smart Rice to Secure Supply Resilience - Supply Chain Digital Magazine",
+    "date": "01.09.2025",
+    "description": "Strategic Insight: This article covers Mars Backs Climate-Smart Rice to Secure Supply Resilience - Supply Chain Digital Magazine. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMU9PWUZwZXUxWWk1dHdNbWJ5MUZpN0FnZjdSSzkyQUtyZ05VTFllWnMyTUZCVWRySWVqTUZvYUdfRk96ZExtRWZGcVRTb2YyWlJxeFZ2NlRrc2FWd2dmd3haYkstOS1hSzVXdkVHU2NXM2lURVdLdDhEYVhELWZ6MmZ1R1A?oc=5"
   },
   {
     "id": 48,
@@ -435,9 +435,9 @@
     "id": 49,
     "image": "https://picsum.photos/seed/HowMcDonald%27sisHarnessingP/800/450",
     "category": "Procurement",
-    "title": "How McDonald's is Harnessing Predictive Analytics - Procurement Magazine",
+    "title": "How McDonald's is Harnessing Predictive Analytics - procurementmag.com",
     "date": "11.08.2025",
-    "description": "Strategic Insight: This article covers How McDonald's is Harnessing Predictive Analytics - Procurement Magazine. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers How McDonald's is Harnessing Predictive Analytics - procurementmag.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FZ0RiWWR6TEZmWE9qTkhqZHJsWlNXdWYzNFRCZGladTlkTHV2RUE1UWliZjAtN2loTldnYzA3dmNpUUFKaXJSakRPV3ZzS3RXUzluUURVWFdfSmdON0U5N0pyLUtMVTd2cGJZSk91OUJBaG1iYUxEZWNMQ2d3UQ?oc=5"
   },
   {
@@ -498,9 +498,9 @@
     "id": 56,
     "image": "https://picsum.photos/seed/HowPepsiCoisUsingAItoTra/800/450",
     "category": "Procurement",
-    "title": "How PepsiCo is Using AI to Transform Procurement - Procurement Magazine",
+    "title": "How PepsiCo is Using AI to Transform Procurement - procurementmag.com",
     "date": "27.06.2025",
-    "description": "Strategic Insight: This article covers How PepsiCo is Using AI to Transform Procurement - Procurement Magazine. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers How PepsiCo is Using AI to Transform Procurement - procurementmag.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2UxVmNrbmxhVU5pYnAxZ0pHNzNyVl9ra3BHUXhZWGR0Z2M2dWxFdm93bk81NkhqT1k1UElaajNhOXJCZEpITkpMMkx0YU9tU0Qtcl9VNjMtY0QxWW82VE1ib0JVZmFKVS1ydU8xSlNQUDctTzV4SHR4XzNIRmJZU3pFeHBvUmU5Yi1hQVhubkxYRmhZd0NwQzNjdmt0cWIyNFRr?oc=5"
   },
   {
@@ -523,6 +523,15 @@
   },
   {
     "id": 59,
+    "image": "https://picsum.photos/seed/AmazontoutsAIupgradesforf/800/450",
+    "category": "Planning",
+    "title": "Amazon touts AI upgrades for forecasting, deliveries and robotics - Supply Chain Dive",
+    "date": "20.06.2025",
+    "description": "Strategic Insight: This article covers Amazon touts AI upgrades for forecasting, deliveries and robotics - Supply Chain Dive. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFV0dEhLVTlZV1hucW80b3lzakMtNmdCRmNJaXpKVjRnMHdVVFV2X1JrNkxWbUVqT1o5dTl3OGtHUmYxV1lndGM3Qmt6X3FjUGh3WmVPQU5fdjlzOWx0NUNjd05GSzNMTkJIcWpob0dmVF9JWVBTSldwLVREQW1GRlBuYXI5WnVuWmc?oc=5"
+  },
+  {
+    "id": 60,
     "image": "https://picsum.photos/seed/Q%26A%3AAgenticAIinretailand/800/450",
     "category": "Future-Tech",
     "title": "Q&A: Agentic AI in retail and supply chain planning - RELEX Solutions",
@@ -531,7 +540,7 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMURMU1JDQlgtOXZKM1E4TjhES0xGYzkzOGlPZlRqbVNYVTBaLXFIRVpNWkpIclVibzhLQWwxTHdEVy1iaFJzRjZrOUhEOEM2NWc5dVRVbzBKZHVrV1VyTEwxNURHNzYtR0J6RUhxcUpZNW5vZUtpRTBlcjl0NVdvTjFKeHVCSUVYalZIcE55MUZzdw?oc=5"
   },
   {
-    "id": 60,
+    "id": 61,
     "image": "https://picsum.photos/seed/Amazon%27sdelivery%2Clogisticsg/800/450",
     "category": "Logistics",
     "title": "Amazon's delivery, logistics get an AI boost - Reuters",
@@ -540,7 +549,7 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDdxeXFvNFdnWTNRUjI0WXNHNnZEclpYelBEY1JxVnVuTmdiUVlnMTZ3UEwwU1dCOVotLUFLNE9rQTlSMVZaU2pMdUg1WTBjTWZBdHJlc0d3RzBPbUdacWc2T2R3X25vcWstVFYyUHFxVzh0Zmh5cGJiOTB3SEJKdUVITTNDS19MNDJOQTBTeFE2aVRCQUVxOXJ5c2xBeERKZzgtemFPQzIzWjVX?oc=5"
   },
   {
-    "id": 61,
+    "id": 62,
     "image": "https://picsum.photos/seed/EpicorERPaddsagenticAIcap/800/450",
     "category": "Future-Tech",
     "title": "Epicor ERP adds agentic AI capabilities for supply chain - TechTarget",
@@ -549,16 +558,16 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUsxdG9vSV9rN1B0VlJrSnFqOXhXRkUwUUt3YTVEdG1mWllTLWcweXY2akhRellORjdBUm5ZQllTdDlhVnNNR3NIZ2tweHBQVVBzU1BEd0tmbUs0QzhndWE3SkJTVUpMTlR1SmNiX0tMV0xoMzRIQy1yZWdoMUpobHdRMkJCMXpoMjIySkhXeW9pR3FqRlBzQkxQSTBad190dkRVVGVuaVlmWDBF?oc=5"
   },
   {
-    "id": 62,
+    "id": 63,
     "image": "https://picsum.photos/seed/High-TechLogisticsMarketto/800/450",
     "category": "Logistics",
-    "title": "High-Tech Logistics Market to Surpass USD 175.5 Billion by 2034: Driving a New Era of Smart Supply Chains - Global Trade Magazine",
+    "title": "High-Tech Logistics Market to Surpass USD 175.5 Billion by 2034: Driving a New Era of Smart Supply Chains - globaltrademag.com",
     "date": "06.05.2025",
-    "description": "Strategic Insight: This article covers High-Tech Logistics Market to Surpass USD 175.5 Billion by 2034: Driving a New Era of Smart Supply Chains - Global Trade Magazine. Visit source for full technical details.",
+    "description": "Strategic Insight: This article covers High-Tech Logistics Market to Surpass USD 175.5 Billion by 2034: Driving a New Era of Smart Supply Chains - globaltrademag.com. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTdfRWU5Y2p2ZnVBYTZSaHJHUlZUdDVfbjNLODdoUHlMQ0VCX3lJUFNSWThZTWFqZjM1N0VtaDhRM1hOOUJhdjlBS1RXQ01HNXlGTGZUTVZ5VXhtMTRDUF83cUhnbFpna3pFZHlZVGpkbzZrOWUzWFByLWJHU1dldENMc2o3VDNaN0gyYmYwU1d3VnlfU3lTbGVtNXJBRjE5dHpBTUV6LTVOWENqdHZyY1BHMTNJdW9iSmlMVzRsSWFtMng0UHlRZDFocG93Rm16UHc?oc=5"
   },
   {
-    "id": 63,
+    "id": 64,
     "image": "https://picsum.photos/seed/2025SmartManufacturingandO/800/450",
     "category": "Smart Manufacturing",
     "title": "2025 Smart Manufacturing and Operations Survey: Navigating challenges to implementation - Deloitte",
@@ -567,7 +576,7 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajRpMTdGaVBMa3RpVU1sTFdUTTBOUkE3WXNYVnZaRXdYbXpaemJlWHAyMTZNcVlPeEtlVTI0RkMwQmJXbVBZenRUUFp1SE9GZ0FPYVh6RVExNV9mYzJXNHpGUUd4NU5NR1lwcUZQMW5ES0NFeTZmeWpsWnFHMHVkaGVnSjJnejFpa1l5bzZWTjNhWmI5N1dvdVBPTlZUaVJj?oc=5"
   },
   {
-    "id": 64,
+    "id": 65,
     "image": "https://picsum.photos/seed/PalantirReinventsWendy%E2%80%99sSup/800/450",
     "category": "Logistics",
     "title": "Palantir Reinvents Wendy’s Supply Chain Network, Walgreens’ Operations - PYMNTS.com",
@@ -576,7 +585,7 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0d4LUpieURoRXpGVW5oQ2F3bUZMU29MQksxVlJBV2RmRzBXMTNHWEJVVXd0cEZkdDROeFZWZkR2M2ZxUXo3T2FWOTFyS3dSWEhackdGWWtoVXJFQk9RT3laQ01SOXJ0ZmsyQlZMTUlwOU5hNzVPSkNrcXdVS2lnTUZtTmxVT09LejYtRFVESHZfSTRmTm95TzlSeFA4V3g5RlR6STdyQVlCdzBfRjN2QWxReFRWdldnd3dyeGhRbm0teTQ?oc=5"
   },
   {
-    "id": 65,
+    "id": 66,
     "image": "https://picsum.photos/seed/PetFoodCompanyImplementsWe/800/450",
     "category": "Logistics",
     "title": "Pet Food Company Implements Weavix Radio System for Manufacturing Communication - Quality Assurance & Food Safety",
@@ -585,7 +594,7 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFdWeWxON2o0MEozVHZnRFpWbXllTS1NUFZVRDl5dmpZZDNSNU5yeU9xMEVvR0xWRDJoQ0lCdkJqc3UyYV8zbzJWN1o1VVczU1UyWjdSUG05cHhic3RHTDJRZi15cGttbmEzY2hWSUV2ZVYzbVM2NEt1RnN4bEVjY2hEYjM0OFBaYnNna2JSem9DUmI3UnltWWJqYkxzMUs0ekdhMWRyQzhrLVdMdTV4Vk5NMzhQMEN5RHVYQXFR?oc=5"
   },
   {
-    "id": 66,
+    "id": 67,
     "image": "https://picsum.photos/seed/Thecontentsupplychain%27sAI/800/450",
     "category": "Data Analytics",
     "title": "The content supply chain's AI awakening: Retail insights - IBM",
@@ -594,7 +603,7 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJJbTVNbkNjcF93MGFyOFNQTlhNT2w4MW0ybFRTdVpibkkwU1paeFhYRnFTMFp2ZXVhNnVVb3dralhUOTZfVndwbUc4b01Sekt0ZGJQYm91NnNNQ1d2UDNOU2NFaS03Vml0eVNGSjA3TGc5TkRwc0JfX2FWZVRWaWFkeWxDOWY0bTVZTjhhLUdtZlRfUXNXX1Q5RUxoSy00RkdVRHdzS2ZEZ01fMVdsOA?oc=5"
   },
   {
-    "id": 67,
+    "id": 68,
     "image": "https://picsum.photos/seed/Gartner%E2%80%99s2025SupplyChainTe/800/450",
     "category": "Logistics",
     "title": "Gartner’s 2025 Supply Chain Tech Trends; CPG & Retail’s Roadmap & Roadblocks - Consumer Goods Technology",
@@ -603,7 +612,16 @@
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR00xRkVyYUN0U1pRZ2lQbmY5MTJmb3BLX1o4eGVWM1EzZWMzeHpoZ2NWc1c4RVNSMmNDVEhyOVF4UHFCZTdKNjRTam9vWTl6bmxWTDRhV1ZFN19GdFlJODhTLXRHMTIzQVc1aEE1MXphbnRDWWp4bW9hdWVpTU9fbG9ldWdUSTRHRWxpT1NnTlUyZTI2Z2ZhSjdrZw?oc=5"
   },
   {
-    "id": 68,
+    "id": 69,
+    "image": "https://picsum.photos/seed/WhatcanweLearnfromPepsiCo/800/450",
+    "category": "Smart Manufacturing",
+    "title": "What can we Learn from PepsiCo's use of Automation? - Manufacturing Digital",
+    "date": "14.03.2025",
+    "description": "Strategic Insight: This article covers What can we Learn from PepsiCo's use of Automation? - Manufacturing Digital. Visit source for full technical details.",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVbnN5ZG1YdXZtQ1JkaDYzZDVfUDdrLXdGcUttNGpFZlpFcEQxTXN4ZUJoVE93Wm9zOEtaQkwxLUZJQldDd2gzRy0wS1htZktEVEJzeDlnQXBYNkpIUEhmeDlPR0p4M1ZCVjlyQ2xzSTN3WXlJNlFhUjY5OWpvb1U?oc=5"
+  },
+  {
+    "id": 70,
     "image": "https://picsum.photos/seed/Stella%26Chewy%E2%80%99sdeployssmart/800/450",
     "category": "Logistics",
     "title": "Stella & Chewy’s deploys smart communication technology in manufacturing plants - Pet Food Processing",
@@ -612,16 +630,7 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzlubFBuUTQ3VEhFdWpTbVZ4eTJGeUhJSzNlRXM1UE90UFNzRjNuQ1ZuZjhzbFpiNEotOGZYZF9HZGtCSTNmQXBZMDJpRUxjVGtoQnltcmtJLTdGTk5ZYVZwZGVJb1ZEM09RSEhsYkNrV3BzcEgtVmZWR2JGU0dkbk1rM3NsRW5zQUtIVHBZeWtISzJkOTVrZnk5RU5EaGNMVW54T2NtOVVZMC1tR1p6cHg4VDl3MmlUWmQtMGozVHlGTWZIWnA2Vw?oc=5"
   },
   {
-    "id": 69,
-    "image": "https://picsum.photos/seed/ThisWeek%E2%80%99sTopFiveStoriesi/800/450",
-    "category": "Procurement",
-    "title": "This Week’s Top Five Stories in Procurement - Procurement Magazine",
-    "date": "28.02.2025",
-    "description": "Strategic Insight: This article covers This Week’s Top Five Stories in Procurement - Procurement Magazine. Visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWVtQm9QOEs3UnZJckwtU2p2NEgybVhiS0ZGU0trUkJwZmpSWGtjSURCNU80Q3NzRTR6Q1M3XzdJT1ZYaVZIR0lFOENva2pVTU9xNFo5bGhTMkVXZEoteGJ6cXM4d2lqQkp0SnFJVjc5YWd0U0YzclpDT3pwVDNGSjI3T1ZVc3JwVG1ZNnZwLXZCVF8wUGRab1ZiNlRBZw?oc=5"
-  },
-  {
-    "id": 70,
+    "id": 71,
     "image": "https://picsum.photos/seed/West-BaketoUsePlexSmartMa/800/450",
     "category": "Smart Manufacturing",
     "title": "West-Bake to Use Plex Smart Manufacturing Platform from Rockwell Automation - Food Manufacturing",
@@ -630,7 +639,7 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVFBJb2s4ZHFZY3h6RDd3bVBiUGVMdkc2NXM0THFONWltd21xc3RMb3ZvZWVZNTJXM2RkVUhSM21Hdnl6MHphWVRtSURMVk4wcHNUeUlwUUdYaXJoUk5pTnZZMXN5cU9wUUxnS0dIbDdwUGlpQ0RaOHdZSktJLVEyZkg0SktYNnJ0aW9MVkwwN1lMdDVwdmk5YWRPMzRiQ0ZJYVdzWkdHU0FKOFlLWEhwY212bFJKS0V1NE1vTHNIeTZRNDNGZU1OQnNPLVJxbm53?oc=5"
   },
   {
-    "id": 71,
+    "id": 72,
     "image": "https://picsum.photos/seed/Enhancingsupplychainefficie/800/450",
     "category": "Logistics",
     "title": "Enhancing supply chain efficiency in the retail and consumer goods industry with agentic systems - Microsoft",
@@ -639,7 +648,7 @@
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWktsX2RxcUxjamtXb2t5aTJVdjh3d0hqT0hSZnpKVFpFNjJrM012ZVAtQ0IxdU9hN3NGT19ZaGJEaDlWOF9iOUxpSFcwTVZuSWJjYnJQakNLd3Y2X2RkQVVWaDVNZHNWZGY3aFI1bml6U2RSOTBIWEEyNllnTjlZTDRCMk9na21BSVJDNldSdGt4OGNCYTdGV1JXTkxlREJtT0N4ajNROFNzSS13anM0YUNJN3B5UXh1T3MxUWpZVmRqTUJTUEdNanNJOU80bDN6V3BtU1ZzeThNcE5XRGtSUXE1UXJxcURscTZkbWQ0NnVYeFU?oc=5"
   },
   {
-    "id": 72,
+    "id": 73,
     "image": "https://picsum.photos/seed/SurgereUnveilsAgenticAIAss/800/450",
     "category": "Future-Tech",
     "title": "Surgere Unveils Agentic AI Assistant, Enabling Instant Insight Into Supply Chain Data, at Manifest 2025 - Business Wire",
@@ -648,7 +657,7 @@
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVXd2YXNraXliWEI1Zk53ZS1VT1FjRlRFVGhuMmp5TlRPSTFLVHZRZGFiUjNyd2lKaTFnaEVlMkI4azNVQXR4MjRKanJPallic3FvZ3Q4YlVFYWtDY3JlRy1Kbjd5eTdGYVVNWXVlb1J0ZlRvbG80azNiZmNBRURVWGhTU3lNRXBFXzJ5cXZqQnJkSWNlalFBbzdsTzY1dXVmNnlJRlNkTUJ0UmhiRWFiUnlnSjJJczdhQzRENVRscnRGTnY4MElaYm1pTmJaellRTkJDTUppUm5RcU50WWxyamxsMlVIQTdKYk14bkRNNA?oc=5"
   },
   {
-    "id": 73,
+    "id": 74,
     "image": "https://picsum.photos/seed/Factorsaffectingtheadoption/800/450",
     "category": "Logistics",
     "title": "Factors affecting the adoption of RFID in the food supply chain: a systematic literature review - Frontiers",
@@ -657,7 +666,7 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWE3Z2ZiSVNoWmVvNHQyMTBIdG1UUnFMUGlNbjZ3SGNHMVFobDUyMDlxQ2Zyb1FyRm5rSTVfV1pKd1k0VktSWWZWaDJfSE1RVVE1bHozZ2dGdlZqaVJVeDluNFktY1hZNVNXa0VhWVJyVGZURkJ0ZG5fN3BvT3hKOU9UVTkyOU0xVXlYVUFfUE5PbjZ4RTdlZHpncFh6ajdnZVNaQQ?oc=5"
   },
   {
-    "id": 74,
+    "id": 75,
     "image": "https://picsum.photos/seed/Howanewsmartlabeltracksf/800/450",
     "category": "Logistics",
     "title": "How a new smart label tracks food’s supply chain journey - Agriculture Dive",
@@ -666,7 +675,7 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkFXRVpWTi1ubEJuWDNtaEdrVmU0X29MMGJxcUlZWWkwd2NPaHBMOTR6SXp5U3lKWDliTG1la0YxaHVrcFJONVNnSlExeHhBSnozU3hzMkZId1dFbWZTaEFMZUxYZmVHU2FXODJ3akhFQWhKZHBwZ3UwbU1seEliZVpDVnp5UkxJeEJOdGVuZnZ5Y3FBc3NCdUM3d1lhMW8?oc=5"
   },
   {
-    "id": 75,
+    "id": 76,
     "image": "https://picsum.photos/seed/Howsmartlabelsareshapingf/800/450",
     "category": "Smart Manufacturing",
     "title": "How smart labels are shaping future supply chain ecosystems - IOT Insider",
@@ -675,7 +684,7 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkhJdDdEbTNubWVYWHhWczZzX3RSb0NtMXJrUGpZNVJIZFhYMXlDWTlNaF85bV9kd3VQZ3V5cXVGM0RWT1dDWGNPSzJxTjd4dXU1MjN2eV9MRm50azlPZmpaVkQxYzBsZEJWSUlSSFI5cUFrREtyc0NIWlIxRFJBZHFZUmVZMl9MZ2cyMGZzaHljLWpTalp3QXJMb1NyYTlQYXpNbkMyNlVHU0w4bVRRamk0TTVhZVo3TEZz?oc=5"
   },
   {
-    "id": 76,
+    "id": 77,
     "image": "https://picsum.photos/seed/SmartSupplyChainManagement/800/450",
     "category": "Logistics",
     "title": "Smart Supply Chain Management Can Reduce Food Waste and Improve Margins in Your Restaurant - Modern Restaurant Management",
@@ -684,22 +693,13 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDQwdHZZVVJOcFQtWnlhSzBjMmNRbHNuc01tTEdOeVFjWXZ5UHM2SHhNUE11VS1DRnJKWjFVS1daeGZWUWJQemU2Rk5iTm5acGp5dEhVOFJWRU1BZDBxQ2VTRTA1S0FzTWZtdFE3TnA1SHJNLS1Wa0VRRHI5YUpQMmEtWUhTM1JwZmRNZGRRY3NaeXg0SUpGSnhpZml0TTZiVlJPQkM1bG9wWG5DWHpPcGNFRFFuaFl3UzdwcG1aWHVPWERCdUU3dlJn?oc=5"
   },
   {
-    "id": 77,
+    "id": 78,
     "image": "https://picsum.photos/seed/HowSmartManufacturingWillC/800/450",
     "category": "Smart Manufacturing",
     "title": "How Smart Manufacturing Will Change Fashion, the Textile Industry, and the Future of Retail - WhatTheyThink",
     "date": "19.09.2024",
     "description": "Strategic Insight: This article covers How Smart Manufacturing Will Change Fashion, the Textile Industry, and the Future of Retail - WhatTheyThink. Visit source for full technical details.",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmd6bzBjUzB5ZDZJd3BxRWdPR1pNQWNTajZZUnBfeUItc1Y2RGxLVjRPWG5ueUwzZnNDWUtfM0JBZDllbWhCcUVuT2U2NWs1XzRMMFRqSGpQWWNkSXV1UW5GN2JlUGVMblJFUGh3TTZDOGtaU2JFeFV3V1BDMmNYcjhROFkxNUxCQUFNNHIxLWZWX1ZZQzNKVHlVSXJhd0hBempsQ3VrelJQaDNaMy1oQk9fYkV0NkQx?oc=5"
-  },
-  {
-    "id": 78,
-    "image": "https://picsum.photos/seed/Drinksindustryfacescybersec/800/450",
-    "category": "Smart Manufacturing",
-    "title": "Drinks industry faces cybersecurity challenges from smart manufacturing - Just Drinks",
-    "date": "13.09.2024",
-    "description": "Strategic Insight: This article covers Drinks industry faces cybersecurity challenges from smart manufacturing - Just Drinks. Visit source for full technical details.",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREVtT0IyZ1ZRemJPT19jTE40aGRIbjlXYk0xYzFsU1hQZF9nY3pKVGRuVmtabDluOEFWMnVEVXpqRENsbFhJNUJ2Y041WFFhbUpjQmV2V2JpdVBjZ3kwT2Q1a1h4N0FWWWh5VklYWGFOdnBXOUJwX2plOEh5VU9YTVAyWEhrek9nUjZvZzFCOTkyUXRFNzZNQTc3UWRUckpSeHJYS3VZRjAxYWctRVE?oc=5"
   },
   {
     "id": 79,
